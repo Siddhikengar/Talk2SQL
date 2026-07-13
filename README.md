@@ -1,4 +1,4 @@
-# Talk2SQL 🔧
+# Talk2SQL 
 
 **Talk2SQL** is a local-first, AI-powered SQL assistant that lets you query databases in plain English. Ask a question in natural language, get back a ready-to-run SQL query, execute it instantly, and browse the results — all from a single Streamlit interface, powered entirely by a locally-hosted LLM (no external API calls, no data leaving your machine).
 
