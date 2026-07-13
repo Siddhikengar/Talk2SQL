@@ -1,0 +1,201 @@
+id,name,category,price,budget,supplier,stock_quantity,discontinued
+1,Product 1,Home,33.38,5382.22,Acme Supply Co,229,0
+2,Product 2,Electronics,232.03,7872.13,Nova Distributors,289,0
+3,Product 3,Sports,156.6,5501.92,Nova Distributors,344,0
+4,Product 4,Kitchen,264.63,2357.25,TrailGear Inc,264,0
+5,Product 5,Sports,232.6,1599.15,Bright Retail,424,1
+6,Product 6,Home,55.19,3686.65,HomeGoods Ltd,243,0
+7,Product 7,Books,48.25,5576.17,Bright Retail,301,1
+8,Product 8,Toys,296.3,5273.46,Bright Retail,352,1
+9,Product 9,Kitchen,413.66,1582.6,HomeGoods Ltd,248,1
+10,Product 10,Outdoor,484.33,4348.89,Nova Distributors,60,0
+11,Product 11,Books,241.93,6098.72,Nova Distributors,189,0
+12,Product 12,Kitchen,64.05,3271.89,TrailGear Inc,20,0
+13,Product 13,Home,192.01,7932.65,TrailGear Inc,150,1
+14,Product 14,Electronics,397.68,1566.05,Nova Distributors,215,0
+15,Product 15,Toys,445.63,2116.86,Bright Retail,1,0
+16,Product 16,Sports,43.1,835.12,Bright Retail,293,0
+17,Product 17,Books,451.13,6360.12,Bright Retail,427,0
+18,Product 18,Outdoor,257.32,3957.02,Bright Retail,341,1
+19,Product 19,Outdoor,434.5,2939.12,Nova Distributors,340,1
+20,Product 20,Kitchen,124.07,3465.48,Nova Distributors,23,1
+21,Product 21,Toys,326.49,6994.65,Acme Supply Co,292,0
+22,Product 22,Home,325.51,1138.64,Nova Distributors,277,0
+23,Product 23,Apparel,377.76,4269.79,Acme Supply Co,61,0
+24,Product 24,Electronics,144.72,2043.54,Nova Distributors,227,0
+25,Product 25,Sports,206.87,837.38,Acme Supply Co,174,1
+26,Product 26,Outdoor,213.31,6947.36,TrailGear Inc,195,0
+27,Product 27,Home,66.17,1245,HomeGoods Ltd,146,0
+28,Product 28,Outdoor,135.21,1172.21,TrailGear Inc,487,1
+29,Product 29,Outdoor,38.86,7708.43,HomeGoods Ltd,13,0
+30,Product 30,Toys,201.06,2900.31,Bright Retail,457,0
+31,Product 31,Toys,193.99,6708.06,Acme Supply Co,26,0
+32,Product 32,Apparel,378.54,4895.22,Bright Retail,260,1
+33,Product 33,Home,141.94,2887.52,Nova Distributors,208,0
+34,Product 34,Books,24.15,5251.56,Acme Supply Co,137,0
+35,Product 35,Apparel,383.85,5386.63,HomeGoods Ltd,155,1
+36,Product 36,Books,51.11,5268.49,HomeGoods Ltd,400,0
+37,Product 37,Sports,274.81,1761.41,HomeGoods Ltd,275,1
+38,Product 38,Books,30.47,6594.83,Nova Distributors,148,0
+39,Product 39,Electronics,39.48,7413.58,TrailGear Inc,306,0
+40,Product 40,Kitchen,499.62,6818.29,HomeGoods Ltd,299,0
+41,Product 41,Electronics,89.08,4505.67,Acme Supply Co,153,0
+42,Product 42,Kitchen,352.22,6728.74,Nova Distributors,143,1
+43,Product 43,Apparel,309.11,7680.63,TrailGear Inc,452,0
+44,Product 44,Toys,490.01,5808.16,TrailGear Inc,125,0
+45,Product 45,Sports,113.2,7692.45,TrailGear Inc,8,0
+46,Product 46,Electronics,308.3,532.09,Acme Supply Co,344,0
+47,Product 47,Kitchen,282.33,5723.67,Bright Retail,390,1
+48,Product 48,Home,395.77,5368.23,Acme Supply Co,275,0
+49,Product 49,Books,339.39,3147.46,Bright Retail,423,0
+50,Product 50,Kitchen,96.81,6259.74,Acme Supply Co,63,1
+51,Product 51,Sports,468.75,3834.33,HomeGoods Ltd,380,0
+52,Product 52,Toys,343.46,5818.98,HomeGoods Ltd,46,0
+53,Product 53,Apparel,124.78,4203.57,TrailGear Inc,18,0
+54,Product 54,Books,453.2,5802.26,HomeGoods Ltd,3,0
+55,Product 55,Kitchen,64.35,2580.11,Nova Distributors,252,0
+56,Product 56,Apparel,333.31,4742.8,Nova Distributors,289,0
+57,Product 57,Home,298.19,6094.8,HomeGoods Ltd,132,0
+58,Product 58,Toys,104,5584.84,Nova Distributors,314,0
+59,Product 59,Books,10.95,3703.36,Acme Supply Co,437,0
+60,Product 60,Kitchen,423.72,3551.57,Acme Supply Co,348,1
+61,Product 61,Books,187.11,6192.66,HomeGoods Ltd,24,0
+62,Product 62,Kitchen,270.87,2871.81,Bright Retail,99,0
+63,Product 63,Home,441.24,6557.55,HomeGoods Ltd,500,1
+64,Product 64,Home,459.32,1976.58,TrailGear Inc,159,0
+65,Product 65,Home,23.65,3739.62,Acme Supply Co,303,0
+66,Product 66,Toys,131.1,4051.82,TrailGear Inc,426,0
+67,Product 67,Sports,264.63,2275.58,Acme Supply Co,397,1
+68,Product 68,Home,316.41,4842.01,Acme Supply Co,498,0
+69,Product 69,Electronics,194.91,7175.63,Acme Supply Co,400,0
+70,Product 70,Electronics,460.36,3814.39,TrailGear Inc,312,1
+71,Product 71,Home,59.89,918.42,Acme Supply Co,150,1
+72,Product 72,Kitchen,56.95,6139.73,HomeGoods Ltd,442,0
+73,Product 73,Books,198.11,6463.74,Nova Distributors,317,0
+74,Product 74,Sports,328.94,5568.32,Acme Supply Co,232,0
+75,Product 75,Apparel,62.91,592.16,Acme Supply Co,303,0
+76,Product 76,Outdoor,322.3,2422.15,Bright Retail,246,1
+77,Product 77,Outdoor,129.13,6477.69,Acme Supply Co,65,0
+78,Product 78,Kitchen,261.42,5387.79,TrailGear Inc,159,0
+79,Product 79,Outdoor,240.06,5024.97,TrailGear Inc,188,0
+80,Product 80,Outdoor,38.08,4303.31,Nova Distributors,439,0
+81,Product 81,Kitchen,178.46,7823.83,HomeGoods Ltd,402,0
+82,Product 82,Sports,102.77,4067.94,Bright Retail,307,0
+83,Product 83,Sports,311.88,3640.21,HomeGoods Ltd,53,1
+84,Product 84,Electronics,253,7399.65,HomeGoods Ltd,354,0
+85,Product 85,Books,315.71,2292.64,TrailGear Inc,413,1
+86,Product 86,Apparel,206.14,6695.63,Acme Supply Co,185,0
+87,Product 87,Home,185.35,4660.19,HomeGoods Ltd,148,1
+88,Product 88,Apparel,319.34,7345.32,TrailGear Inc,22,0
+89,Product 89,Apparel,106.92,1806.1,TrailGear Inc,368,0
+90,Product 90,Sports,425.28,2344.73,HomeGoods Ltd,11,0
+91,Product 91,Toys,456.21,657.45,HomeGoods Ltd,194,0
+92,Product 92,Sports,468.69,2788.04,HomeGoods Ltd,189,0
+93,Product 93,Outdoor,471.16,7828.26,Nova Distributors,451,1
+94,Product 94,Home,68.05,7120.42,HomeGoods Ltd,406,0
+95,Product 95,Apparel,270.94,5707.65,TrailGear Inc,306,1
+96,Product 96,Apparel,461.29,6223.12,Nova Distributors,96,0
+97,Product 97,Outdoor,170.55,899.44,TrailGear Inc,446,0
+98,Product 98,Books,112.52,1110.56,Bright Retail,404,0
+99,Product 99,Outdoor,259.21,6134.81,Nova Distributors,191,1
+100,Product 100,Books,97.7,5843.65,Nova Distributors,355,1
+101,Product 101,Books,242.13,4858.9,Nova Distributors,332,0
+102,Product 102,Apparel,117.56,2022.5,HomeGoods Ltd,202,0
+103,Product 103,Toys,218.25,3328.12,HomeGoods Ltd,478,0
+104,Product 104,Toys,279.76,1507.48,Acme Supply Co,151,1
+105,Product 105,Sports,122.78,808.57,Nova Distributors,318,0
+106,Product 106,Kitchen,231.05,3743.79,TrailGear Inc,411,1
+107,Product 107,Sports,143.77,685.39,Bright Retail,119,0
+108,Product 108,Home,185.95,1118.14,Nova Distributors,262,0
+109,Product 109,Toys,464.03,1238.07,Acme Supply Co,184,0
+110,Product 110,Apparel,173.53,5563.3,TrailGear Inc,154,0
+111,Product 111,Apparel,355.75,7984.97,Nova Distributors,467,0
+112,Product 112,Electronics,387.33,2613.84,TrailGear Inc,400,1
+113,Product 113,Kitchen,412.7,6183.55,Acme Supply Co,241,0
+114,Product 114,Kitchen,121.5,5925.02,HomeGoods Ltd,242,0
+115,Product 115,Books,364.02,3960.51,Acme Supply Co,160,0
+116,Product 116,Kitchen,387.35,5734.56,HomeGoods Ltd,224,1
+117,Product 117,Electronics,193.59,4831.31,HomeGoods Ltd,156,0
+118,Product 118,Books,407.09,6757.24,TrailGear Inc,115,1
+119,Product 119,Kitchen,346.01,3525.27,Nova Distributors,153,0
+120,Product 120,Electronics,288.1,741.57,HomeGoods Ltd,78,0
+121,Product 121,Kitchen,490.27,2031.53,Bright Retail,32,1
+122,Product 122,Apparel,242.63,2966.31,Bright Retail,327,0
+123,Product 123,Home,93.99,5561.64,HomeGoods Ltd,16,1
+124,Product 124,Electronics,101.47,1021.18,Bright Retail,145,0
+125,Product 125,Apparel,152.63,4432.97,Bright Retail,29,0
+126,Product 126,Electronics,94.18,6947.81,Bright Retail,200,0
+127,Product 127,Home,73.27,3638.1,Acme Supply Co,199,0
+128,Product 128,Outdoor,436.51,2823.18,Bright Retail,81,0
+129,Product 129,Apparel,256.2,5636.27,TrailGear Inc,103,0
+130,Product 130,Outdoor,228.4,6684.37,Nova Distributors,413,0
+131,Product 131,Sports,456.04,7094.3,Bright Retail,236,0
+132,Product 132,Home,151.07,7107.46,Bright Retail,177,0
+133,Product 133,Kitchen,310.37,6574.89,HomeGoods Ltd,212,0
+134,Product 134,Outdoor,450.97,5999.33,Bright Retail,196,0
+135,Product 135,Home,202.83,7592.66,HomeGoods Ltd,453,0
+136,Product 136,Toys,442.44,4533.03,Acme Supply Co,357,0
+137,Product 137,Books,211.52,6213.96,Acme Supply Co,188,0
+138,Product 138,Home,257.14,6346.33,Bright Retail,230,0
+139,Product 139,Toys,111.6,834.76,Acme Supply Co,37,1
+140,Product 140,Kitchen,178.38,3495.06,HomeGoods Ltd,203,0
+141,Product 141,Electronics,132.79,5818.25,HomeGoods Ltd,167,1
+142,Product 142,Books,236.05,1119.11,HomeGoods Ltd,365,1
+143,Product 143,Outdoor,240.68,2593.56,HomeGoods Ltd,87,0
+144,Product 144,Home,96.84,1431.14,Bright Retail,86,0
+145,Product 145,Electronics,341.91,1651.22,TrailGear Inc,91,0
+146,Product 146,Electronics,447.41,4492.24,Bright Retail,356,0
+147,Product 147,Home,201.39,2812.43,Acme Supply Co,306,0
+148,Product 148,Electronics,388.47,6253.36,HomeGoods Ltd,191,0
+149,Product 149,Apparel,54.77,3662.62,Acme Supply Co,172,0
+150,Product 150,Home,118.07,7117.15,HomeGoods Ltd,370,0
+151,Product 151,Electronics,213.67,1307.63,TrailGear Inc,165,0
+152,Product 152,Apparel,467.81,3462.98,Bright Retail,61,0
+153,Product 153,Apparel,61.87,2925.26,Acme Supply Co,205,0
+154,Product 154,Electronics,200.69,3940.82,Acme Supply Co,336,0
+155,Product 155,Sports,31.52,7140.95,Bright Retail,154,1
+156,Product 156,Home,359.13,6434.45,Nova Distributors,87,0
+157,Product 157,Home,303.92,7860.62,Bright Retail,347,0
+158,Product 158,Sports,95.9,6212.87,TrailGear Inc,500,1
+159,Product 159,Home,174.19,5064,Nova Distributors,229,1
+160,Product 160,Apparel,256.67,5784.72,Acme Supply Co,119,0
+161,Product 161,Home,161.33,6034.35,HomeGoods Ltd,317,0
+162,Product 162,Electronics,77.39,4240.45,HomeGoods Ltd,77,1
+163,Product 163,Apparel,324.59,2285.48,Nova Distributors,484,1
+164,Product 164,Sports,75.78,2881.54,Acme Supply Co,266,1
+165,Product 165,Toys,377.76,2217.58,TrailGear Inc,175,0
+166,Product 166,Apparel,274.25,7299.74,HomeGoods Ltd,410,0
+167,Product 167,Kitchen,265.51,1876.59,Acme Supply Co,33,1
+168,Product 168,Home,477.28,890.8,HomeGoods Ltd,480,0
+169,Product 169,Outdoor,54.95,4944.73,HomeGoods Ltd,120,0
+170,Product 170,Kitchen,365.23,2835.97,HomeGoods Ltd,125,1
+171,Product 171,Outdoor,306.86,2773.26,Nova Distributors,229,0
+172,Product 172,Toys,432.58,4108.78,TrailGear Inc,203,1
+173,Product 173,Outdoor,240.64,3670.23,Nova Distributors,376,1
+174,Product 174,Outdoor,411.6,6451.69,Acme Supply Co,390,1
+175,Product 175,Kitchen,428.47,6191.44,TrailGear Inc,304,0
+176,Product 176,Outdoor,136.06,3977.38,Bright Retail,145,1
+177,Product 177,Books,45.24,1524.92,Bright Retail,100,0
+178,Product 178,Apparel,12.04,6962.41,TrailGear Inc,251,1
+179,Product 179,Kitchen,470.73,7778.69,TrailGear Inc,196,1
+180,Product 180,Toys,324.1,4912.32,Bright Retail,453,0
+181,Product 181,Home,198.55,4742.06,HomeGoods Ltd,390,1
+182,Product 182,Toys,387.91,6136.83,TrailGear Inc,260,1
+183,Product 183,Sports,351.25,5381.8,Bright Retail,376,0
+184,Product 184,Apparel,244.08,7411.01,TrailGear Inc,323,0
+185,Product 185,Outdoor,138.04,3916.03,HomeGoods Ltd,130,0
+186,Product 186,Outdoor,16.04,6282.29,Bright Retail,203,0
+187,Product 187,Apparel,439.23,1743.68,Bright Retail,129,0
+188,Product 188,Kitchen,297.17,6004.5,Acme Supply Co,55,0
+189,Product 189,Outdoor,141.81,2071.44,Bright Retail,357,0
+190,Product 190,Electronics,493.63,6622.92,Acme Supply Co,49,0
+191,Product 191,Kitchen,267.22,5408.91,Bright Retail,87,0
+192,Product 192,Sports,101.33,1507.49,Bright Retail,93,0
+193,Product 193,Books,287.87,2094.3,HomeGoods Ltd,30,0
+194,Product 194,Apparel,137.07,7267.05,Bright Retail,225,0
+195,Product 195,Outdoor,49.1,1142.8,Acme Supply Co,141,0
+196,Product 196,Sports,24.53,2260.85,Bright Retail,344,0
+197,Product 197,Electronics,39.91,6138.49,Acme Supply Co,340,0
+198,Product 198,Home,113.41,6438.4,Bright Retail,308,0
+199,Product 199,Books,241.87,3027.72,Bright Retail,172,0
+200,Product 200,Sports,499.72,6626.35,TrailGear Inc,340,1

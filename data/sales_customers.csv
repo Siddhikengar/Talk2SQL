@@ -1,0 +1,1001 @@
+id,name,email,phone,age,region,signup_date,loyalty_tier
+1,Ivan Lee,ivan.lee26@example.com,555-5506,33,North,04-12-2022,Bronze
+2,Ken Shah,ken.shah33@example.com,555-1488,23,North,20-09-2022,Bronze
+3,Zara Patel,zara.patel734@example.com,555-9928,44,North,09-10-2024,Bronze
+4,Hana Dubois,hana.dubois164@example.com,555-7924,39,South,25-04-2022,Gold
+5,Jordan Rivera,jordan.rivera390@example.com,555-2584,40,South,26-05-2025,Bronze
+6,Diego Lin,diego.lin550@example.com,555-3045,42,West,27-05-2025,Gold
+7,Ken Patel,ken.patel722@example.com,555-2139,20,North,28-02-2023,Silver
+8,Tariq Lee,tariq.lee390@example.com,555-5554,47,South,12-06-2022,Silver
+9,Wei Torres,wei.torres719@example.com,555-2169,56,North,08-12-2025,Silver
+10,Grace Rossi,grace.rossi277@example.com,555-4598,61,South,27-04-2021,Bronze
+11,Omar Davis,omar.davis411@example.com,555-5386,22,North,11-12-2025,Silver
+12,Ivan Garcia,ivan.garcia406@example.com,555-8517,27,South,24-04-2022,Gold
+13,Diego Falk,diego.falk439@example.com,555-7543,41,North,16-09-2022,Bronze
+14,Hana Kumar,hana.kumar882@example.com,555-2796,27,North,20-07-2026,Bronze
+15,Sofia Rossi,sofia.rossi611@example.com,555-8668,51,South,22-01-2025,Bronze
+16,Wei Sato,wei.sato550@example.com,555-5371,67,South,14-05-2021,Silver
+17,Grace Chen,grace.chen977@example.com,555-5315,50,North,28-02-2025,Gold
+18,Elena Bianchi,elena.bianchi520@example.com,555-4258,27,South,25-09-2022,Bronze
+19,Nadia Davis,nadia.davis501@example.com,555-1319,25,South,02-04-2023,Silver
+20,Yuki Falk,yuki.falk970@example.com,555-2290,23,East,25-09-2021,Silver
+21,Morgan Petrov,morgan.petrov487@example.com,555-3705,34,East,25-09-2022,Silver
+22,Fatima Wright,fatima.wright409@example.com,555-7118,46,East,08-04-2021,Bronze
+23,Emma Chen,emma.chen603@example.com,555-4770,55,North,23-02-2021,Bronze
+24,Noah Rivera,noah.rivera928@example.com,555-1514,73,South,08-09-2021,Gold
+25,Wei Garcia,wei.garcia220@example.com,555-9834,26,East,26-08-2022,Platinum
+26,Liam Lee,liam.lee100@example.com,555-8062,40,East,28-08-2024,Bronze
+27,Wei Bianchi,wei.bianchi662@example.com,555-2612,21,East,26-06-2026,Bronze
+28,Noah Patel,noah.patel195@example.com,555-9786,46,North,09-03-2024,Platinum
+29,Noah Haas,noah.haas946@example.com,555-2235,46,West,18-11-2021,Bronze
+30,Sam Cohen,sam.cohen772@example.com,555-4872,28,East,07-08-2024,Platinum
+31,Yuki Kumar,yuki.kumar169@example.com,555-7209,18,East,10-08-2023,Platinum
+32,Fatima Khan,fatima.khan803@example.com,555-8973,27,North,02-04-2023,Bronze
+33,Diego Davis,diego.davis59@example.com,555-1821,55,East,06-09-2025,Bronze
+34,Lucas Rivera,lucas.rivera872@example.com,555-4044,22,West,13-04-2026,Bronze
+35,Yuki Falk,yuki.falk253@example.com,555-1651,57,West,19-11-2024,Gold
+36,Leila Torres,leila.torres210@example.com,555-6147,33,South,22-03-2024,Gold
+37,Grace Davis,grace.davis952@example.com,555-2188,18,East,04-10-2025,Bronze
+38,Zara Patel,zara.patel519@example.com,555-5345,26,South,12-04-2021,Gold
+39,Ava Lin,ava.lin854@example.com,555-9900,63,South,17-11-2025,Bronze
+40,Wei Novak,wei.novak568@example.com,555-5905,60,West,04-05-2022,Bronze
+41,Diego Osei,diego.osei160@example.com,555-5462,36,North,07-06-2026,Gold
+42,Lucas Garcia,lucas.garcia258@example.com,555-1832,23,East,01-01-2023,Gold
+43,Hana Blake,hana.blake653@example.com,555-5291,28,East,14-12-2025,Bronze
+44,Jordan Rivera,jordan.rivera968@example.com,555-3442,52,West,18-10-2023,Silver
+45,Ravi Blake,ravi.blake43@example.com,555-6050,41,West,22-04-2023,Silver
+46,Wei Lee,wei.lee363@example.com,555-7658,57,North,26-03-2022,Silver
+47,Yuki Shah,yuki.shah26@example.com,555-3938,65,South,28-11-2024,Silver
+48,Mia Thompson,mia.thompson807@example.com,555-2771,42,West,07-04-2024,Platinum
+49,Carlos Wright,carlos.wright841@example.com,555-4728,32,West,13-04-2026,Gold
+50,Mia Haas,mia.haas72@example.com,555-5573,40,East,11-09-2026,Bronze
+51,Jordan Sato,jordan.sato994@example.com,555-5279,29,South,20-02-2021,Platinum
+52,Carlos Khan,carlos.khan806@example.com,555-6139,45,West,07-10-2024,Gold
+53,Priya Silva,priya.silva447@example.com,555-1027,51,North,03-07-2023,Gold
+54,Nadia Davis,nadia.davis680@example.com,555-3041,64,South,22-05-2025,Platinum
+55,Emma Rossi,emma.rossi714@example.com,555-5844,53,North,22-07-2022,Platinum
+56,Wei Khan,wei.khan925@example.com,555-3851,57,South,27-09-2024,Bronze
+57,Ethan Wright,ethan.wright216@example.com,555-8043,68,South,15-08-2024,Silver
+58,Lucas Garcia,lucas.garcia813@example.com,555-3780,60,West,22-09-2023,Gold
+59,Sam Novak,sam.novak975@example.com,555-4848,61,South,05-04-2022,Bronze
+60,Priya Kim,priya.kim487@example.com,555-2193,47,East,07-10-2026,Platinum
+61,Olivia Rossi,olivia.rossi250@example.com,555-3417,59,West,08-07-2021,Silver
+62,Omar Silva,omar.silva531@example.com,555-8611,21,North,05-08-2021,Platinum
+63,Wei Nguyen,wei.nguyen573@example.com,555-6198,66,East,17-12-2025,Platinum
+64,Elena Cohen,elena.cohen562@example.com,555-8305,75,North,15-08-2026,Gold
+65,Hana Kim,hana.kim861@example.com,555-5543,67,East,09-04-2026,Platinum
+66,Sam Silva,sam.silva293@example.com,555-4841,35,South,03-09-2023,Silver
+67,Morgan Kim,morgan.kim393@example.com,555-3503,63,North,14-07-2021,Gold
+68,Zara Lin,zara.lin426@example.com,555-2020,31,East,23-10-2024,Bronze
+69,Tariq Sato,tariq.sato784@example.com,555-7232,48,West,25-05-2023,Platinum
+70,Tariq Sato,tariq.sato977@example.com,555-7865,52,North,09-04-2024,Platinum
+71,Olivia Chen,olivia.chen399@example.com,555-6507,60,East,27-03-2026,Platinum
+72,Leila Blake,leila.blake638@example.com,555-9751,19,East,22-10-2025,Bronze
+73,Sam Bianchi,sam.bianchi439@example.com,555-3223,73,East,09-01-2022,Platinum
+74,Emma Patel,emma.patel466@example.com,555-6355,39,East,09-07-2023,Bronze
+75,Olivia Chen,olivia.chen768@example.com,555-9837,21,South,03-11-2022,Bronze
+76,Hana Chen,hana.chen973@example.com,555-5051,30,West,08-03-2025,Silver
+77,Olivia Petrov,olivia.petrov118@example.com,555-4571,47,South,20-03-2023,Bronze
+78,Hana Novak,hana.novak168@example.com,555-6096,24,West,22-10-2023,Platinum
+79,Sofia Silva,sofia.silva204@example.com,555-2245,55,North,25-12-2021,Gold
+80,Tariq Petrov,tariq.petrov615@example.com,555-2983,68,West,14-09-2023,Gold
+81,Sam Nguyen,sam.nguyen664@example.com,555-6590,18,East,14-02-2024,Gold
+82,Ivan Sato,ivan.sato849@example.com,555-8532,63,North,24-03-2024,Gold
+83,Nadia Dubois,nadia.dubois942@example.com,555-9817,67,East,27-07-2024,Gold
+84,Emma Haas,emma.haas252@example.com,555-2419,35,East,19-08-2022,Platinum
+85,Emma Chen,emma.chen507@example.com,555-6325,29,East,26-06-2022,Gold
+86,Emma Torres,emma.torres902@example.com,555-5526,53,West,03-04-2025,Silver
+87,Diego Shah,diego.shah501@example.com,555-4937,62,East,16-12-2026,Platinum
+88,Omar Chen,omar.chen96@example.com,555-5820,32,East,10-04-2026,Gold
+89,Olivia Osei,olivia.osei544@example.com,555-6632,45,South,15-12-2023,Gold
+90,Ethan Torres,ethan.torres237@example.com,555-2976,64,North,24-02-2023,Silver
+91,Liam Patel,liam.patel757@example.com,555-8933,35,South,10-04-2021,Silver
+92,Carlos Thompson,carlos.thompson310@example.com,555-1231,63,North,02-01-2023,Gold
+93,Fatima Blake,fatima.blake654@example.com,555-9042,24,West,16-05-2025,Platinum
+94,Grace Davis,grace.davis189@example.com,555-1841,34,East,13-02-2021,Platinum
+95,Sam Falk,sam.falk645@example.com,555-1878,27,North,03-05-2025,Silver
+96,Jordan Osei,jordan.osei783@example.com,555-7818,56,North,15-07-2025,Platinum
+97,Ethan Haas,ethan.haas603@example.com,555-8025,37,West,04-12-2025,Silver
+98,Ivan Patel,ivan.patel271@example.com,555-2330,28,North,03-09-2022,Silver
+99,Alex Shah,alex.shah462@example.com,555-8699,36,West,23-05-2022,Gold
+100,Fatima Haas,fatima.haas465@example.com,555-2166,61,North,19-11-2023,Silver
+101,Ravi Lee,ravi.lee558@example.com,555-4683,59,North,03-03-2023,Bronze
+102,Ava Dubois,ava.dubois315@example.com,555-5728,46,West,10-12-2024,Platinum
+103,Mia Nguyen,mia.nguyen553@example.com,555-9090,46,West,14-01-2025,Gold
+104,Nadia Torres,nadia.torres27@example.com,555-2496,32,West,19-05-2026,Bronze
+105,Hana Kowalski,hana.kowalski180@example.com,555-8708,51,East,19-03-2023,Platinum
+106,Ivan Novak,ivan.novak504@example.com,555-2494,48,South,11-06-2024,Bronze
+107,Tariq Thompson,tariq.thompson338@example.com,555-7744,62,East,13-11-2023,Bronze
+108,Grace Rivera,grace.rivera323@example.com,555-5135,38,West,27-09-2024,Bronze
+109,Wei Haas,wei.haas556@example.com,555-8569,44,West,12-09-2022,Platinum
+110,Ivan Lin,ivan.lin779@example.com,555-1845,31,South,10-03-2025,Platinum
+111,Yuki Silva,yuki.silva497@example.com,555-2989,19,North,10-03-2026,Bronze
+112,Zara Shah,zara.shah96@example.com,555-4681,71,West,21-02-2024,Silver
+113,Olivia Cohen,olivia.cohen734@example.com,555-5781,50,South,16-08-2024,Silver
+114,Grace Osei,grace.osei149@example.com,555-7284,30,North,25-05-2021,Platinum
+115,Emma Cohen,emma.cohen807@example.com,555-9318,35,West,10-12-2023,Platinum
+116,Tariq Blake,tariq.blake458@example.com,555-9824,48,South,25-09-2023,Platinum
+117,Grace Cohen,grace.cohen330@example.com,555-4090,62,North,08-07-2025,Platinum
+118,Priya Davis,priya.davis763@example.com,555-8749,63,East,26-11-2024,Silver
+119,Olivia Kumar,olivia.kumar130@example.com,555-9229,55,South,04-08-2021,Platinum
+120,Alex Khan,alex.khan148@example.com,555-7717,73,North,26-08-2021,Gold
+121,Emma Alvarez,emma.alvarez710@example.com,555-7512,59,West,28-11-2023,Platinum
+122,Emma Bianchi,emma.bianchi736@example.com,555-8994,73,West,08-02-2025,Gold
+123,Noah Khan,noah.khan93@example.com,555-8110,24,West,23-03-2024,Gold
+124,Yuki Chen,yuki.chen48@example.com,555-6314,68,West,12-06-2023,Platinum
+125,Morgan Kim,morgan.kim544@example.com,555-7751,54,North,03-03-2022,Platinum
+126,Nadia Petrov,nadia.petrov247@example.com,555-9153,55,North,21-08-2022,Gold
+127,Grace Torres,grace.torres683@example.com,555-1153,75,East,18-11-2023,Silver
+128,Sam Lin,sam.lin968@example.com,555-6661,55,South,23-07-2026,Gold
+129,Grace Haas,grace.haas310@example.com,555-4263,42,East,13-04-2021,Gold
+130,Ken Wright,ken.wright717@example.com,555-5837,19,East,19-01-2023,Bronze
+131,Leila Alvarez,leila.alvarez764@example.com,555-9138,71,South,26-10-2022,Gold
+132,Noah Bianchi,noah.bianchi195@example.com,555-5106,61,North,21-02-2026,Bronze
+133,Ethan Dubois,ethan.dubois452@example.com,555-1546,55,South,03-03-2026,Gold
+134,Emma Khan,emma.khan426@example.com,555-3877,30,North,17-06-2025,Gold
+135,Elena Thompson,elena.thompson264@example.com,555-8894,69,South,26-06-2026,Bronze
+136,Grace Rivera,grace.rivera145@example.com,555-4696,73,East,03-06-2025,Platinum
+137,Alex Torres,alex.torres550@example.com,555-3024,47,South,22-12-2026,Gold
+138,Ken Rossi,ken.rossi843@example.com,555-7086,24,North,20-01-2024,Gold
+139,Leila Alvarez,leila.alvarez227@example.com,555-2035,58,East,21-05-2026,Platinum
+140,Jordan Blake,jordan.blake47@example.com,555-1609,37,East,08-02-2021,Silver
+141,Sofia Lin,sofia.lin380@example.com,555-9850,44,North,04-11-2024,Platinum
+142,Nadia Shah,nadia.shah962@example.com,555-5583,20,South,15-08-2022,Silver
+143,Tariq Mendes,tariq.mendes102@example.com,555-7018,52,South,09-07-2021,Silver
+144,Jordan Haas,jordan.haas844@example.com,555-8450,23,North,20-11-2026,Bronze
+145,Priya Dubois,priya.dubois342@example.com,555-4990,26,North,07-09-2021,Silver
+146,Elena Haas,elena.haas239@example.com,555-6383,67,North,09-01-2025,Silver
+147,Morgan Osei,morgan.osei257@example.com,555-3858,25,West,12-01-2022,Silver
+148,Ken Davis,ken.davis17@example.com,555-3854,34,West,14-12-2022,Bronze
+149,Diego Rivera,diego.rivera488@example.com,555-8344,67,South,04-10-2025,Platinum
+150,Lucas Kim,lucas.kim969@example.com,555-1710,64,South,01-11-2024,Bronze
+151,Olivia Haas,olivia.haas412@example.com,555-7984,61,West,15-12-2024,Bronze
+152,Yuki Rivera,yuki.rivera330@example.com,555-3430,22,North,21-10-2023,Gold
+153,Sofia Alvarez,sofia.alvarez544@example.com,555-5831,47,East,04-12-2021,Silver
+154,Ravi Lin,ravi.lin910@example.com,555-4743,44,South,14-07-2024,Bronze
+155,Emma Shah,emma.shah321@example.com,555-5176,41,North,03-08-2026,Bronze
+156,Elena Rivera,elena.rivera96@example.com,555-8075,24,South,02-09-2022,Gold
+157,Wei Lee,wei.lee421@example.com,555-6793,73,East,10-01-2026,Gold
+158,Carlos Lee,carlos.lee592@example.com,555-9313,31,North,08-08-2026,Bronze
+159,Carlos Haas,carlos.haas570@example.com,555-7022,25,South,26-04-2025,Platinum
+160,Tariq Osei,tariq.osei998@example.com,555-1430,56,South,09-03-2021,Gold
+161,Leila Davis,leila.davis360@example.com,555-1100,29,North,13-11-2025,Bronze
+162,Morgan Khan,morgan.khan649@example.com,555-1502,23,North,15-07-2024,Gold
+163,Ava Mendes,ava.mendes320@example.com,555-6314,67,West,06-03-2021,Bronze
+164,Wei Rivera,wei.rivera279@example.com,555-8259,60,East,15-10-2024,Platinum
+165,Mia Patel,mia.patel774@example.com,555-9394,25,South,10-02-2024,Platinum
+166,Lucas Petrov,lucas.petrov316@example.com,555-1744,32,East,01-01-2025,Silver
+167,Ethan Patel,ethan.patel786@example.com,555-3248,66,South,04-06-2023,Bronze
+168,Olivia Khan,olivia.khan441@example.com,555-3878,26,East,08-12-2025,Gold
+169,Sam Rossi,sam.rossi883@example.com,555-1693,45,West,28-02-2024,Gold
+170,Ken Shah,ken.shah588@example.com,555-7626,63,East,13-02-2023,Bronze
+171,Emma Thompson,emma.thompson821@example.com,555-8538,71,South,28-07-2021,Bronze
+172,Noah Shah,noah.shah604@example.com,555-7560,51,West,24-05-2024,Gold
+173,Noah Davis,noah.davis798@example.com,555-3754,22,West,07-09-2025,Gold
+174,Carlos Khan,carlos.khan982@example.com,555-3419,33,West,07-05-2022,Silver
+175,Nadia Blake,nadia.blake779@example.com,555-2234,29,East,25-10-2024,Platinum
+176,Wei Cohen,wei.cohen904@example.com,555-6295,73,South,03-08-2022,Platinum
+177,Grace Bianchi,grace.bianchi311@example.com,555-5500,55,West,03-09-2023,Gold
+178,Grace Lin,grace.lin39@example.com,555-1932,41,South,28-11-2021,Bronze
+179,Nadia Alvarez,nadia.alvarez520@example.com,555-7299,47,West,21-10-2024,Silver
+180,Emma Alvarez,emma.alvarez488@example.com,555-9214,27,West,26-02-2024,Gold
+181,Fatima Rivera,fatima.rivera517@example.com,555-3827,20,North,15-08-2026,Silver
+182,Carlos Mendes,carlos.mendes940@example.com,555-5634,42,East,20-11-2023,Bronze
+183,Omar Bianchi,omar.bianchi663@example.com,555-6482,22,South,22-09-2021,Platinum
+184,Ethan Torres,ethan.torres742@example.com,555-3463,39,West,05-11-2025,Gold
+185,Ethan Bianchi,ethan.bianchi716@example.com,555-7421,26,West,13-09-2023,Gold
+186,Elena Blake,elena.blake687@example.com,555-9624,23,East,01-06-2025,Gold
+187,Ethan Thompson,ethan.thompson974@example.com,555-4509,39,East,05-04-2022,Silver
+188,Sam Wright,sam.wright865@example.com,555-2657,50,West,25-06-2026,Silver
+189,Nadia Rossi,nadia.rossi158@example.com,555-3658,29,North,02-08-2026,Platinum
+190,Carlos Petrov,carlos.petrov737@example.com,555-4891,46,South,08-08-2026,Silver
+191,Ethan Dubois,ethan.dubois804@example.com,555-8684,75,North,19-11-2023,Platinum
+192,Grace Kowalski,grace.kowalski289@example.com,555-7256,50,East,26-04-2022,Silver
+193,Tariq Torres,tariq.torres54@example.com,555-8873,73,South,23-02-2025,Bronze
+194,Ethan Rivera,ethan.rivera782@example.com,555-3626,35,East,27-03-2025,Platinum
+195,Sam Cohen,sam.cohen228@example.com,555-8391,74,South,02-07-2021,Platinum
+196,Lucas Mendes,lucas.mendes242@example.com,555-7326,23,South,11-01-2022,Bronze
+197,Elena Silva,elena.silva666@example.com,555-6493,68,North,10-01-2022,Platinum
+198,Fatima Novak,fatima.novak143@example.com,555-8685,46,West,09-01-2021,Silver
+199,Elena Blake,elena.blake562@example.com,555-9647,45,West,10-04-2023,Bronze
+200,Priya Kim,priya.kim430@example.com,555-8489,22,West,18-10-2024,Bronze
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

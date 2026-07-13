@@ -1,0 +1,201 @@
+id,name,credits,department,instructor,semester_offered,room,capacity
+1,Course 1,1,Computer Science,Dr. Osei,Spring,279,45
+2,Course 2,3,Science,Dr. Kapoor,Fall,265,22
+3,Course 3,4,Social Studies,Dr. Falk,Fall,286,25
+4,Course 4,1,Social Studies,Dr. Kapoor,Spring,381,31
+5,Course 5,4,English,Dr. Reyes,Fall,192,16
+6,Course 6,2,Art,Dr. Kapoor,Fall,186,18
+7,Course 7,2,Mathematics,Dr. Reyes,Fall,147,34
+8,Course 8,3,English,Dr. Reyes,Spring,206,45
+9,Course 9,5,English,Dr. Lindqvist,Fall,376,40
+10,Course 10,4,English,Dr. Kapoor,Spring,181,44
+11,Course 11,5,Social Studies,Dr. Osei,Fall,228,40
+12,Course 12,2,Computer Science,Dr. Kapoor,Spring,309,20
+13,Course 13,5,Mathematics,Dr. Reyes,Spring,258,24
+14,Course 14,1,Social Studies,Dr. Whitman,Fall,199,39
+15,Course 15,2,English,Dr. Kapoor,Fall,341,15
+16,Course 16,1,Computer Science,Dr. Whitman,Fall,191,31
+17,Course 17,4,Computer Science,Dr. Falk,Fall,176,45
+18,Course 18,1,Science,Dr. Lindqvist,Fall,101,17
+19,Course 19,4,Computer Science,Dr. Falk,Spring,239,17
+20,Course 20,4,Computer Science,Dr. Kapoor,Spring,170,36
+21,Course 21,1,Mathematics,Dr. Falk,Spring,312,19
+22,Course 22,4,Computer Science,Dr. Lindqvist,Fall,150,26
+23,Course 23,2,Social Studies,Dr. Lindqvist,Spring,229,23
+24,Course 24,2,Mathematics,Dr. Osei,Spring,128,30
+25,Course 25,5,Computer Science,Dr. Falk,Fall,203,15
+26,Course 26,5,Computer Science,Dr. Kapoor,Spring,172,43
+27,Course 27,2,Art,Dr. Kapoor,Fall,303,32
+28,Course 28,1,Social Studies,Dr. Whitman,Fall,232,25
+29,Course 29,4,English,Dr. Osei,Fall,168,27
+30,Course 30,4,Mathematics,Dr. Falk,Spring,356,37
+31,Course 31,1,English,Dr. Lindqvist,Spring,103,18
+32,Course 32,3,Mathematics,Dr. Lindqvist,Fall,389,28
+33,Course 33,4,English,Dr. Reyes,Fall,114,34
+34,Course 34,2,Computer Science,Dr. Whitman,Fall,123,18
+35,Course 35,5,Science,Dr. Kapoor,Spring,164,22
+36,Course 36,2,Art,Dr. Osei,Spring,101,41
+37,Course 37,3,English,Dr. Lindqvist,Fall,344,33
+38,Course 38,3,English,Dr. Osei,Fall,275,32
+39,Course 39,3,Computer Science,Dr. Whitman,Fall,319,41
+40,Course 40,2,English,Dr. Lindqvist,Spring,142,24
+41,Course 41,5,Science,Dr. Whitman,Spring,271,41
+42,Course 42,4,Computer Science,Dr. Lindqvist,Fall,258,44
+43,Course 43,2,Computer Science,Dr. Kapoor,Spring,221,33
+44,Course 44,4,Science,Dr. Reyes,Fall,277,34
+45,Course 45,1,English,Dr. Kapoor,Fall,135,20
+46,Course 46,3,Art,Dr. Kapoor,Spring,330,22
+47,Course 47,4,Art,Dr. Reyes,Spring,187,43
+48,Course 48,3,Computer Science,Dr. Osei,Spring,201,35
+49,Course 49,3,Computer Science,Dr. Kapoor,Spring,365,30
+50,Course 50,2,English,Dr. Reyes,Spring,343,18
+51,Course 51,3,Social Studies,Dr. Lindqvist,Spring,214,43
+52,Course 52,5,Art,Dr. Lindqvist,Fall,180,34
+53,Course 53,5,Mathematics,Dr. Osei,Spring,373,35
+54,Course 54,1,Art,Dr. Falk,Fall,250,30
+55,Course 55,5,Social Studies,Dr. Whitman,Fall,125,33
+56,Course 56,3,Mathematics,Dr. Kapoor,Fall,314,37
+57,Course 57,3,Social Studies,Dr. Osei,Spring,312,19
+58,Course 58,3,Science,Dr. Reyes,Spring,170,19
+59,Course 59,3,Computer Science,Dr. Kapoor,Fall,116,22
+60,Course 60,4,English,Dr. Osei,Fall,143,37
+61,Course 61,3,Art,Dr. Whitman,Fall,270,19
+62,Course 62,4,Science,Dr. Whitman,Fall,335,20
+63,Course 63,2,Social Studies,Dr. Falk,Fall,232,30
+64,Course 64,3,Social Studies,Dr. Kapoor,Fall,105,35
+65,Course 65,1,English,Dr. Falk,Fall,214,21
+66,Course 66,3,English,Dr. Kapoor,Spring,329,40
+67,Course 67,3,Science,Dr. Osei,Fall,265,34
+68,Course 68,4,Art,Dr. Reyes,Spring,344,40
+69,Course 69,1,Computer Science,Dr. Osei,Fall,186,20
+70,Course 70,4,Science,Dr. Lindqvist,Spring,338,38
+71,Course 71,2,Social Studies,Dr. Falk,Fall,121,38
+72,Course 72,2,Science,Dr. Kapoor,Fall,394,16
+73,Course 73,1,Social Studies,Dr. Falk,Spring,308,17
+74,Course 74,3,Computer Science,Dr. Osei,Spring,357,30
+75,Course 75,2,Art,Dr. Lindqvist,Spring,262,23
+76,Course 76,1,Art,Dr. Falk,Fall,227,18
+77,Course 77,4,English,Dr. Reyes,Fall,131,38
+78,Course 78,4,Social Studies,Dr. Falk,Spring,392,22
+79,Course 79,5,Science,Dr. Falk,Fall,394,27
+80,Course 80,5,Mathematics,Dr. Falk,Spring,208,38
+81,Course 81,5,Science,Dr. Lindqvist,Spring,189,31
+82,Course 82,4,English,Dr. Lindqvist,Fall,271,29
+83,Course 83,2,Science,Dr. Kapoor,Fall,213,22
+84,Course 84,1,Social Studies,Dr. Osei,Spring,274,22
+85,Course 85,2,Mathematics,Dr. Osei,Fall,316,24
+86,Course 86,1,Science,Dr. Osei,Spring,343,44
+87,Course 87,3,Mathematics,Dr. Lindqvist,Spring,197,37
+88,Course 88,4,Science,Dr. Whitman,Fall,217,26
+89,Course 89,1,Computer Science,Dr. Whitman,Spring,124,19
+90,Course 90,2,Science,Dr. Falk,Fall,114,30
+91,Course 91,1,Computer Science,Dr. Falk,Spring,373,42
+92,Course 92,4,Mathematics,Dr. Kapoor,Spring,126,23
+93,Course 93,2,Science,Dr. Lindqvist,Spring,274,27
+94,Course 94,3,Mathematics,Dr. Whitman,Fall,290,41
+95,Course 95,3,Mathematics,Dr. Osei,Spring,219,31
+96,Course 96,1,Social Studies,Dr. Kapoor,Fall,146,42
+97,Course 97,2,Art,Dr. Falk,Fall,278,37
+98,Course 98,2,Art,Dr. Lindqvist,Spring,230,44
+99,Course 99,1,English,Dr. Lindqvist,Spring,156,25
+100,Course 100,4,Computer Science,Dr. Falk,Spring,162,43
+101,Course 101,4,Social Studies,Dr. Osei,Fall,363,35
+102,Course 102,2,Computer Science,Dr. Reyes,Fall,108,41
+103,Course 103,4,Mathematics,Dr. Lindqvist,Spring,168,42
+104,Course 104,1,Art,Dr. Lindqvist,Spring,321,22
+105,Course 105,3,Science,Dr. Whitman,Fall,334,28
+106,Course 106,1,Computer Science,Dr. Whitman,Spring,178,16
+107,Course 107,3,English,Dr. Kapoor,Spring,356,40
+108,Course 108,3,Art,Dr. Lindqvist,Spring,328,29
+109,Course 109,1,Computer Science,Dr. Osei,Fall,316,15
+110,Course 110,5,Mathematics,Dr. Lindqvist,Fall,155,16
+111,Course 111,1,Computer Science,Dr. Reyes,Fall,125,38
+112,Course 112,2,English,Dr. Osei,Spring,362,31
+113,Course 113,5,English,Dr. Whitman,Fall,119,23
+114,Course 114,4,Art,Dr. Whitman,Spring,224,32
+115,Course 115,5,Mathematics,Dr. Reyes,Spring,374,38
+116,Course 116,3,Mathematics,Dr. Kapoor,Spring,315,44
+117,Course 117,5,Mathematics,Dr. Falk,Fall,295,25
+118,Course 118,4,English,Dr. Kapoor,Fall,294,30
+119,Course 119,2,English,Dr. Whitman,Fall,345,45
+120,Course 120,2,Art,Dr. Reyes,Fall,100,38
+121,Course 121,5,Mathematics,Dr. Lindqvist,Spring,329,19
+122,Course 122,2,Social Studies,Dr. Osei,Spring,315,24
+123,Course 123,1,Social Studies,Dr. Kapoor,Fall,114,45
+124,Course 124,5,Science,Dr. Whitman,Spring,327,45
+125,Course 125,5,English,Dr. Kapoor,Spring,152,35
+126,Course 126,3,Computer Science,Dr. Falk,Fall,310,29
+127,Course 127,1,Computer Science,Dr. Reyes,Spring,234,33
+128,Course 128,1,Social Studies,Dr. Reyes,Spring,330,26
+129,Course 129,1,English,Dr. Falk,Spring,151,17
+130,Course 130,4,Computer Science,Dr. Falk,Spring,123,26
+131,Course 131,5,Computer Science,Dr. Reyes,Fall,255,22
+132,Course 132,1,English,Dr. Whitman,Spring,207,33
+133,Course 133,2,Mathematics,Dr. Lindqvist,Fall,168,26
+134,Course 134,5,Computer Science,Dr. Reyes,Spring,209,22
+135,Course 135,4,Art,Dr. Reyes,Spring,223,15
+136,Course 136,2,Mathematics,Dr. Reyes,Spring,385,30
+137,Course 137,1,English,Dr. Osei,Spring,155,26
+138,Course 138,3,English,Dr. Reyes,Fall,106,42
+139,Course 139,1,Science,Dr. Falk,Fall,170,45
+140,Course 140,3,Computer Science,Dr. Falk,Spring,112,36
+141,Course 141,1,Computer Science,Dr. Falk,Fall,359,38
+142,Course 142,1,Art,Dr. Kapoor,Fall,390,42
+143,Course 143,4,Social Studies,Dr. Lindqvist,Spring,221,31
+144,Course 144,5,Social Studies,Dr. Osei,Spring,293,18
+145,Course 145,4,Science,Dr. Whitman,Fall,244,22
+146,Course 146,5,Science,Dr. Lindqvist,Fall,114,15
+147,Course 147,5,Mathematics,Dr. Falk,Fall,260,20
+148,Course 148,5,Computer Science,Dr. Kapoor,Fall,109,30
+149,Course 149,3,Mathematics,Dr. Reyes,Spring,260,23
+150,Course 150,4,Social Studies,Dr. Osei,Spring,199,26
+151,Course 151,1,English,Dr. Kapoor,Spring,180,19
+152,Course 152,3,Science,Dr. Reyes,Spring,306,16
+153,Course 153,1,Science,Dr. Osei,Fall,119,19
+154,Course 154,2,Computer Science,Dr. Whitman,Spring,295,38
+155,Course 155,4,Social Studies,Dr. Whitman,Fall,284,17
+156,Course 156,3,English,Dr. Kapoor,Fall,234,18
+157,Course 157,5,Art,Dr. Osei,Fall,272,17
+158,Course 158,4,Social Studies,Dr. Reyes,Fall,377,40
+159,Course 159,1,Science,Dr. Osei,Fall,349,31
+160,Course 160,5,Computer Science,Dr. Falk,Spring,117,33
+161,Course 161,5,Social Studies,Dr. Osei,Spring,142,25
+162,Course 162,2,Social Studies,Dr. Reyes,Spring,382,40
+163,Course 163,3,Computer Science,Dr. Falk,Fall,107,19
+164,Course 164,2,Computer Science,Dr. Lindqvist,Fall,228,32
+165,Course 165,5,Social Studies,Dr. Osei,Fall,225,42
+166,Course 166,4,Science,Dr. Reyes,Fall,253,26
+167,Course 167,1,Science,Dr. Whitman,Fall,372,16
+168,Course 168,2,Social Studies,Dr. Lindqvist,Spring,162,44
+169,Course 169,3,Mathematics,Dr. Kapoor,Fall,393,28
+170,Course 170,1,Social Studies,Dr. Whitman,Fall,235,29
+171,Course 171,1,English,Dr. Kapoor,Fall,152,41
+172,Course 172,5,English,Dr. Osei,Spring,293,45
+173,Course 173,5,Science,Dr. Falk,Spring,309,32
+174,Course 174,5,Art,Dr. Osei,Spring,132,16
+175,Course 175,2,Computer Science,Dr. Whitman,Spring,147,21
+176,Course 176,1,English,Dr. Whitman,Fall,387,35
+177,Course 177,1,Computer Science,Dr. Whitman,Spring,143,37
+178,Course 178,2,Science,Dr. Falk,Fall,327,42
+179,Course 179,5,Art,Dr. Whitman,Spring,259,29
+180,Course 180,1,English,Dr. Falk,Spring,100,33
+181,Course 181,3,Mathematics,Dr. Reyes,Spring,151,24
+182,Course 182,5,Social Studies,Dr. Kapoor,Fall,135,15
+183,Course 183,2,Mathematics,Dr. Falk,Spring,299,23
+184,Course 184,3,Social Studies,Dr. Osei,Fall,334,25
+185,Course 185,4,English,Dr. Falk,Fall,332,38
+186,Course 186,3,Mathematics,Dr. Osei,Fall,330,23
+187,Course 187,3,English,Dr. Lindqvist,Spring,101,34
+188,Course 188,2,Science,Dr. Kapoor,Fall,217,27
+189,Course 189,5,Computer Science,Dr. Whitman,Fall,307,45
+190,Course 190,3,Mathematics,Dr. Whitman,Spring,108,22
+191,Course 191,2,Social Studies,Dr. Reyes,Spring,219,45
+192,Course 192,1,Art,Dr. Lindqvist,Fall,278,30
+193,Course 193,4,Science,Dr. Whitman,Fall,141,15
+194,Course 194,5,English,Dr. Reyes,Spring,251,28
+195,Course 195,1,Science,Dr. Falk,Fall,302,16
+196,Course 196,4,Computer Science,Dr. Whitman,Fall,243,29
+197,Course 197,3,English,Dr. Reyes,Spring,253,43
+198,Course 198,5,Social Studies,Dr. Lindqvist,Spring,360,23
+199,Course 199,5,Mathematics,Dr. Reyes,Fall,226,27
+200,Course 200,1,Mathematics,Dr. Whitman,Spring,339,15

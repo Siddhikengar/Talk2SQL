@@ -1,0 +1,1001 @@
+id,name,age,gender,diagnosis,blood_type,phone,admission_date,insurance_provider
+1,Sofia Bianchi,30,M,Arthritis,B+,555-7897,05-08-2026,UnitedHealth
+2,Ravi Kumar,37,F,Allergy,A+,555-1734,20-07-2025,BlueShield
+3,Sofia Silva,14,F,Arthritis,O+,555-4027,08-02-2026,UnitedHealth
+4,Alex Silva,80,F,Asthma,O-,555-3212,02-11-2025,Cigna
+5,Sofia Lin,56,F,Arthritis,B+,555-1069,24-04-2026,Aetna
+6,Mia Thompson,81,M,Bronchitis,B+,555-4625,23-04-2026,Aetna
+7,Lucas Khan,56,M,Allergy,O+,555-6991,17-04-2025,BlueShield
+8,Emma Lin,29,M,Type 2 Diabetes,A-,555-7195,25-09-2026,Humana
+9,Sofia Wright,46,F,Arthritis,A+,555-7697,04-06-2025,BlueShield
+10,Grace Chen,95,F,Arthritis,AB-,555-1137,20-03-2026,UnitedHealth
+11,Priya Osei,52,F,Anemia,B+,555-2517,11-04-2025,Humana
+12,Ken Novak,90,F,Migraine,B-,555-7506,08-07-2025,UnitedHealth
+13,Ravi Chen,5,F,Migraine,B-,555-6666,03-06-2025,Cigna
+14,Omar Kowalski,76,F,Arthritis,O-,555-4289,09-09-2026,Humana
+15,Emma Patel,9,M,Allergy,A-,555-5376,17-06-2026,BlueShield
+16,Wei Rivera,80,F,Bronchitis,A+,555-2834,14-05-2025,BlueShield
+17,Sofia Torres,88,F,Type 2 Diabetes,B-,555-3436,08-06-2026,Aetna
+18,Omar Blake,17,F,Allergy,O+,555-9356,04-01-2025,UnitedHealth
+19,Lucas Silva,14,M,Allergy,O-,555-9769,25-01-2026,Humana
+20,Nadia Sato,85,F,Asthma,AB-,555-5948,13-03-2025,Humana
+21,Jordan Garcia,77,M,Hypertension,O+,555-9539,17-06-2025,Humana
+22,Omar Falk,78,M,Arthritis,O+,555-9953,01-05-2025,Aetna
+23,Liam Wright,92,M,Arthritis,O+,555-2840,13-06-2025,Aetna
+24,Emma Bianchi,67,F,Hypertension,A+,555-2731,04-02-2025,Cigna
+25,Fatima Shah,73,F,Bronchitis,O+,555-3246,10-03-2025,Cigna
+26,Grace Novak,55,F,Migraine,O-,555-3441,17-10-2026,Aetna
+27,Sofia Kowalski,21,M,Allergy,B+,555-9343,23-10-2026,UnitedHealth
+28,Nadia Rivera,23,F,Hypertension,A+,555-1007,03-04-2025,UnitedHealth
+29,Diego Shah,48,F,Arthritis,AB-,555-2965,12-07-2026,Cigna
+30,Tariq Haas,66,M,Asthma,O+,555-5676,10-01-2026,Aetna
+31,Leila Nguyen,73,F,Anemia,O-,555-7519,02-06-2026,Humana
+32,Sofia Blake,93,F,Asthma,A+,555-3082,16-01-2025,Aetna
+33,Mia Sato,94,F,Bronchitis,B+,555-2540,04-07-2025,Aetna
+34,Wei Haas,73,F,Arthritis,AB-,555-5117,13-09-2026,BlueShield
+35,Lucas Khan,2,F,Asthma,A-,555-6116,08-09-2025,UnitedHealth
+36,Mia Bianchi,36,M,Allergy,B-,555-9941,06-10-2025,BlueShield
+37,Ravi Alvarez,50,F,Bronchitis,A-,555-3912,20-11-2026,Cigna
+38,Omar Blake,59,F,Migraine,A+,555-4932,08-09-2026,BlueShield
+39,Omar Thompson,61,F,Asthma,B+,555-3011,24-10-2025,Humana
+40,Fatima Kowalski,45,F,Allergy,O+,555-3637,01-09-2025,BlueShield
+41,Tariq Lin,64,M,Hypertension,AB+,555-3129,28-06-2026,BlueShield
+42,Morgan Khan,50,F,Anemia,AB-,555-4657,07-11-2026,UnitedHealth
+43,Jordan Sato,83,F,Asthma,O-,555-1502,08-03-2025,BlueShield
+44,Elena Nguyen,56,F,Allergy,O+,555-7955,16-11-2026,UnitedHealth
+45,Olivia Garcia,83,M,Hypertension,O-,555-2302,01-05-2025,Humana
+46,Noah Nguyen,33,M,Allergy,A+,555-7459,21-02-2025,Humana
+47,Grace Garcia,92,F,Arthritis,A-,555-4086,05-03-2026,UnitedHealth
+48,Liam Falk,29,M,Migraine,B+,555-3099,16-08-2026,Cigna
+49,Hana Thompson,59,F,Anemia,B-,555-8305,06-01-2026,BlueShield
+50,Wei Dubois,67,F,Migraine,O-,555-2635,10-09-2026,Cigna
+51,Priya Kim,92,F,Asthma,A-,555-7491,27-09-2026,Humana
+52,Tariq Wright,23,M,Anemia,AB-,555-6426,22-06-2025,Humana
+53,Omar Alvarez,40,F,Allergy,O+,555-7280,19-11-2025,Aetna
+54,Lucas Davis,31,M,Hypertension,A+,555-6197,03-07-2026,Cigna
+55,Fatima Petrov,91,F,Anemia,AB+,555-8292,22-09-2026,BlueShield
+56,Lucas Kowalski,73,F,Asthma,AB+,555-2284,11-10-2025,Humana
+57,Fatima Wright,82,F,Migraine,O-,555-2880,15-12-2026,Aetna
+58,Noah Bianchi,43,M,Type 2 Diabetes,B+,555-8546,16-08-2025,Humana
+59,Ravi Blake,52,M,Bronchitis,B-,555-5785,15-11-2026,Humana
+60,Sam Silva,62,M,Migraine,O+,555-1720,26-01-2025,BlueShield
+61,Jordan Khan,33,M,Bronchitis,AB+,555-1945,11-03-2026,BlueShield
+62,Emma Garcia,42,F,Type 2 Diabetes,B+,555-1700,04-08-2026,BlueShield
+63,Wei Nguyen,2,M,Anemia,B-,555-9435,09-03-2026,Aetna
+64,Wei Thompson,62,F,Bronchitis,AB+,555-6727,10-10-2025,Humana
+65,Liam Haas,6,F,Type 2 Diabetes,AB-,555-3036,24-03-2026,UnitedHealth
+66,Sam Thompson,84,M,Anemia,A-,555-4850,14-04-2026,Cigna
+67,Carlos Petrov,58,F,Allergy,AB-,555-4484,26-12-2026,Aetna
+68,Sofia Dubois,43,F,Arthritis,O+,555-4388,10-01-2025,Humana
+69,Grace Alvarez,12,F,Hypertension,AB-,555-8821,22-11-2025,Aetna
+70,Tariq Nguyen,4,F,Type 2 Diabetes,O+,555-8886,13-07-2026,Cigna
+71,Nadia Kowalski,64,F,Allergy,A+,555-2476,25-02-2026,Aetna
+72,Ethan Kowalski,30,F,Bronchitis,AB+,555-9199,02-12-2025,Aetna
+73,Morgan Mendes,26,F,Arthritis,A+,555-6937,15-09-2026,Cigna
+74,Olivia Patel,41,M,Allergy,O-,555-1907,17-03-2026,Aetna
+75,Ivan Alvarez,39,F,Bronchitis,B+,555-7802,22-03-2025,Cigna
+76,Sam Torres,79,M,Bronchitis,A-,555-2758,28-03-2026,Cigna
+77,Emma Rossi,90,F,Anemia,A-,555-1626,21-02-2026,Humana
+78,Elena Davis,51,F,Asthma,O+,555-2010,13-04-2026,Aetna
+79,Fatima Cohen,16,M,Arthritis,O-,555-7370,15-01-2026,Humana
+80,Grace Haas,95,M,Anemia,O-,555-2481,21-12-2025,UnitedHealth
+81,Hana Haas,26,F,Asthma,AB+,555-6978,21-08-2025,Aetna
+82,Hana Dubois,77,F,Bronchitis,AB-,555-8549,02-12-2026,UnitedHealth
+83,Carlos Wright,67,M,Allergy,O-,555-3984,25-10-2026,Humana
+84,Leila Lee,42,F,Migraine,AB-,555-1155,05-11-2025,Humana
+85,Noah Patel,90,M,Asthma,A+,555-7407,27-08-2025,UnitedHealth
+86,Ravi Chen,21,M,Asthma,AB+,555-9929,12-02-2026,Cigna
+87,Olivia Rivera,89,M,Type 2 Diabetes,B+,555-3830,24-02-2026,Humana
+88,Carlos Dubois,53,M,Allergy,AB+,555-6973,20-09-2026,Aetna
+89,Morgan Kim,89,F,Arthritis,A+,555-9958,16-09-2026,BlueShield
+90,Tariq Sato,56,M,Hypertension,A+,555-3422,08-10-2025,Aetna
+91,Carlos Blake,70,F,Allergy,O-,555-7136,26-06-2025,Humana
+92,Ivan Shah,39,F,Migraine,AB+,555-9622,16-12-2026,UnitedHealth
+93,Ravi Torres,87,F,Arthritis,O+,555-8452,08-09-2025,BlueShield
+94,Hana Chen,16,F,Hypertension,O+,555-9844,13-06-2026,UnitedHealth
+95,Elena Cohen,45,M,Arthritis,O-,555-1196,01-09-2026,BlueShield
+96,Alex Osei,83,F,Allergy,AB-,555-5259,14-08-2026,BlueShield
+97,Ken Patel,58,F,Bronchitis,A-,555-7293,25-07-2026,UnitedHealth
+98,Noah Cohen,29,M,Anemia,AB-,555-8252,19-12-2026,Cigna
+99,Noah Patel,62,M,Migraine,AB+,555-3789,03-10-2025,UnitedHealth
+100,Alex Thompson,28,F,Anemia,A-,555-9171,11-05-2025,BlueShield
+101,Emma Thompson,15,F,Hypertension,B-,555-1063,05-08-2026,Cigna
+102,Alex Alvarez,62,F,Migraine,O-,555-5418,16-10-2026,Cigna
+103,Noah Shah,49,M,Arthritis,O-,555-2525,16-05-2026,Aetna
+104,Sofia Shah,47,M,Allergy,B-,555-9584,17-05-2026,Humana
+105,Wei Petrov,45,F,Allergy,O-,555-5009,20-11-2025,Humana
+106,Mia Torres,34,F,Type 2 Diabetes,AB+,555-4983,11-03-2026,Cigna
+107,Mia Garcia,62,F,Anemia,A-,555-8185,05-02-2025,Aetna
+108,Lucas Torres,66,F,Allergy,B-,555-7283,03-10-2025,Humana
+109,Hana Falk,67,F,Arthritis,B-,555-9073,24-03-2025,Aetna
+110,Elena Alvarez,6,M,Hypertension,B-,555-1201,12-05-2026,BlueShield
+111,Grace Kim,49,F,Arthritis,B+,555-1531,19-12-2026,BlueShield
+112,Ken Kim,36,F,Migraine,B+,555-7696,24-11-2025,Cigna
+113,Jordan Blake,25,M,Asthma,O+,555-7658,07-04-2026,UnitedHealth
+114,Yuki Dubois,25,F,Allergy,B-,555-9875,13-10-2025,Aetna
+115,Lucas Thompson,94,M,Bronchitis,O+,555-9607,16-09-2026,UnitedHealth
+116,Ivan Garcia,65,M,Allergy,A-,555-8619,02-04-2026,Humana
+117,Leila Garcia,59,M,Asthma,AB+,555-7304,19-01-2026,Cigna
+118,Wei Falk,64,F,Arthritis,O+,555-1905,12-05-2026,BlueShield
+119,Grace Silva,18,F,Migraine,O+,555-2338,20-08-2025,Aetna
+120,Fatima Thompson,89,M,Bronchitis,B-,555-3420,06-09-2026,UnitedHealth
+121,Ethan Rossi,31,M,Arthritis,B+,555-2284,16-07-2026,BlueShield
+122,Sam Lin,57,F,Asthma,AB-,555-3696,11-11-2026,Humana
+123,Sam Silva,76,F,Hypertension,B+,555-1117,23-06-2026,UnitedHealth
+124,Hana Patel,89,M,Arthritis,A-,555-7420,21-10-2026,Cigna
+125,Morgan Shah,67,M,Arthritis,O+,555-8429,03-06-2025,Aetna
+126,Tariq Kumar,53,F,Allergy,A+,555-2062,04-09-2025,UnitedHealth
+127,Sofia Osei,32,F,Hypertension,A+,555-8921,15-04-2026,Humana
+128,Yuki Novak,72,M,Type 2 Diabetes,B+,555-3795,08-02-2026,Cigna
+129,Jordan Garcia,31,M,Bronchitis,A-,555-1579,07-09-2026,BlueShield
+130,Ravi Osei,34,M,Bronchitis,O-,555-7936,07-03-2026,Humana
+131,Sofia Shah,44,F,Hypertension,AB+,555-8779,12-06-2026,Humana
+132,Carlos Lin,32,F,Anemia,O-,555-1049,25-12-2026,Cigna
+133,Olivia Sato,85,M,Arthritis,O+,555-5811,11-03-2025,Humana
+134,Ivan Alvarez,95,M,Hypertension,B-,555-6330,07-03-2026,UnitedHealth
+135,Olivia Nguyen,38,F,Allergy,A+,555-1761,10-03-2025,BlueShield
+136,Alex Dubois,37,M,Arthritis,O+,555-8649,08-10-2026,BlueShield
+137,Sofia Rossi,2,M,Bronchitis,O-,555-2408,12-11-2026,Cigna
+138,Ravi Rivera,30,F,Hypertension,B+,555-8216,02-01-2026,BlueShield
+139,Tariq Novak,40,F,Anemia,O+,555-3257,16-11-2025,BlueShield
+140,Sofia Haas,74,M,Bronchitis,B+,555-6042,14-06-2025,UnitedHealth
+141,Diego Silva,84,M,Asthma,AB+,555-4459,10-07-2025,Cigna
+142,Morgan Haas,22,F,Arthritis,B-,555-9355,02-08-2025,Humana
+143,Diego Kim,31,F,Type 2 Diabetes,B+,555-4014,21-05-2026,Humana
+144,Ivan Novak,91,F,Bronchitis,A-,555-1577,02-12-2025,UnitedHealth
+145,Carlos Patel,76,M,Anemia,AB+,555-9123,04-06-2025,UnitedHealth
+146,Alex Petrov,74,F,Type 2 Diabetes,AB-,555-1834,03-04-2026,Cigna
+147,Elena Chen,76,M,Bronchitis,AB+,555-9737,01-04-2025,Aetna
+148,Tariq Bianchi,70,F,Bronchitis,O-,555-3959,02-06-2025,BlueShield
+149,Sofia Torres,42,F,Bronchitis,AB+,555-3514,08-08-2026,BlueShield
+150,Morgan Haas,45,M,Bronchitis,O-,555-3084,19-07-2026,Humana
+151,Grace Rossi,23,M,Arthritis,AB-,555-6063,12-05-2026,BlueShield
+152,Zara Kumar,81,F,Type 2 Diabetes,AB-,555-4793,25-02-2025,UnitedHealth
+153,Hana Garcia,13,F,Hypertension,B+,555-3826,09-02-2026,UnitedHealth
+154,Grace Rivera,54,F,Hypertension,B+,555-5300,06-06-2025,Cigna
+155,Mia Wright,45,M,Bronchitis,B+,555-7047,22-02-2026,Humana
+156,Omar Sato,15,M,Allergy,O+,555-5166,05-07-2026,BlueShield
+157,Nadia Patel,71,M,Allergy,A-,555-7425,06-12-2026,UnitedHealth
+158,Yuki Thompson,61,F,Hypertension,AB-,555-5609,14-05-2025,UnitedHealth
+159,Tariq Kowalski,35,M,Migraine,AB+,555-3031,07-06-2025,UnitedHealth
+160,Morgan Davis,46,F,Bronchitis,O-,555-4235,24-07-2025,Aetna
+161,Elena Rivera,27,F,Type 2 Diabetes,B-,555-6647,19-01-2025,UnitedHealth
+162,Mia Cohen,17,F,Migraine,AB-,555-6558,13-06-2025,Humana
+163,Lucas Bianchi,8,F,Migraine,O+,555-8186,03-08-2025,Aetna
+164,Sofia Patel,27,F,Hypertension,A+,555-4471,04-09-2026,Aetna
+165,Morgan Shah,61,M,Allergy,A-,555-4995,05-07-2025,Cigna
+166,Grace Cohen,93,F,Allergy,B+,555-8117,26-09-2026,Humana
+167,Tariq Lee,75,F,Bronchitis,AB-,555-8500,22-10-2026,Aetna
+168,Ken Wright,35,M,Type 2 Diabetes,A-,555-7833,21-06-2026,Cigna
+169,Ava Haas,94,F,Bronchitis,B+,555-1074,13-04-2026,Cigna
+170,Yuki Lin,83,M,Migraine,O+,555-4135,04-07-2025,Aetna
+171,Tariq Lee,62,F,Hypertension,B-,555-4986,07-01-2026,Humana
+172,Wei Osei,29,M,Asthma,O-,555-6224,01-09-2025,BlueShield
+173,Sofia Rossi,36,M,Migraine,A-,555-7936,02-09-2025,BlueShield
+174,Tariq Alvarez,29,F,Asthma,O-,555-2807,25-05-2026,Aetna
+175,Ken Garcia,70,M,Arthritis,AB-,555-5031,28-02-2026,UnitedHealth
+176,Ken Dubois,11,M,Bronchitis,AB+,555-1201,08-03-2026,Cigna
+177,Carlos Kumar,38,F,Hypertension,A+,555-7723,10-03-2025,Cigna
+178,Zara Bianchi,78,M,Migraine,B-,555-2716,21-07-2025,BlueShield
+179,Omar Kowalski,32,F,Hypertension,AB+,555-3054,17-01-2025,UnitedHealth
+180,Priya Rivera,42,F,Allergy,O+,555-7466,20-12-2025,Humana
+181,Sam Kumar,73,F,Arthritis,A+,555-7924,12-07-2026,BlueShield
+182,Zara Patel,54,M,Bronchitis,A+,555-2863,15-01-2026,Aetna
+183,Olivia Patel,7,F,Type 2 Diabetes,B+,555-4238,20-04-2025,BlueShield
+184,Nadia Sato,20,M,Hypertension,B-,555-7408,26-07-2025,BlueShield
+185,Olivia Chen,81,M,Anemia,AB-,555-5676,15-11-2026,Humana
+186,Lucas Silva,69,M,Type 2 Diabetes,A-,555-3756,18-04-2026,BlueShield
+187,Yuki Davis,23,M,Asthma,A+,555-3214,22-11-2026,Aetna
+188,Hana Davis,33,M,Type 2 Diabetes,B+,555-5076,25-08-2026,UnitedHealth
+189,Ethan Kim,83,M,Bronchitis,B+,555-6914,18-08-2026,BlueShield
+190,Priya Garcia,81,M,Anemia,AB+,555-4550,20-07-2026,Humana
+191,Noah Garcia,45,F,Arthritis,O+,555-5589,08-09-2026,Humana
+192,Olivia Mendes,5,M,Allergy,AB-,555-1513,07-12-2025,BlueShield
+193,Grace Dubois,19,M,Type 2 Diabetes,A-,555-6940,07-05-2025,Aetna
+194,Noah Lee,48,F,Bronchitis,B+,555-1301,03-01-2025,UnitedHealth
+195,Sofia Chen,12,M,Asthma,B-,555-4040,06-07-2025,Aetna
+196,Omar Rossi,7,M,Type 2 Diabetes,AB+,555-5527,13-07-2025,Aetna
+197,Noah Lee,49,M,Anemia,O+,555-3558,01-02-2025,BlueShield
+198,Olivia Rivera,89,F,Type 2 Diabetes,B+,555-6184,09-12-2026,BlueShield
+199,Emma Kowalski,15,F,Hypertension,O-,555-1190,14-06-2025,Cigna
+200,Omar Dubois,30,F,Migraine,AB+,555-4700,12-10-2026,BlueShield
+201,Olivia Dubois,56,M,Arthritis,A+,555-5321,21-04-2025,BlueShield
+202,Morgan Silva,24,F,Allergy,O-,555-1890,11-07-2026,Cigna
+203,Alex Thompson,38,M,Asthma,B-,555-8303,10-08-2026,BlueShield
+204,Wei Wright,75,M,Arthritis,AB-,555-2400,07-06-2026,Aetna
+205,Morgan Silva,64,F,Arthritis,A+,555-7451,17-06-2025,Cigna
+206,Leila Nguyen,80,M,Bronchitis,A-,555-2616,11-02-2026,BlueShield
+207,Sam Rivera,34,M,Anemia,O-,555-3575,26-12-2026,Humana
+208,Ethan Mendes,40,F,Allergy,A-,555-2218,03-08-2025,Cigna
+209,Yuki Novak,92,F,Type 2 Diabetes,O+,555-7715,11-10-2026,UnitedHealth
+210,Yuki Davis,84,M,Arthritis,AB-,555-1080,01-05-2025,BlueShield
+211,Ivan Dubois,12,F,Bronchitis,O-,555-8561,04-07-2025,Aetna
+212,Ivan Sato,5,M,Type 2 Diabetes,A+,555-8404,08-09-2025,BlueShield
+213,Wei Nguyen,81,M,Allergy,A+,555-1485,16-06-2025,Humana
+214,Sofia Mendes,55,F,Hypertension,O+,555-2042,25-11-2025,UnitedHealth
+215,Ethan Haas,17,F,Hypertension,AB-,555-3433,04-02-2026,Cigna
+216,Tariq Torres,27,F,Migraine,B+,555-2142,16-05-2025,UnitedHealth
+217,Yuki Wright,85,F,Bronchitis,A+,555-5501,08-03-2025,BlueShield
+218,Ivan Shah,38,M,Type 2 Diabetes,O-,555-7925,02-07-2026,Aetna
+219,Lucas Dubois,77,F,Type 2 Diabetes,B-,555-3438,23-05-2025,Cigna
+220,Sofia Davis,19,M,Allergy,B+,555-7958,07-06-2026,Aetna
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

@@ -1,0 +1,711 @@
+id,name,grade,gpa,major,email,enrollment_date,advisor
+1,Tariq Nguyen,9,2.09,History,tariq.nguyen63@example.edu,07-05-2022,Dr. Reyes
+2,Liam Rossi,9,3.81,Art,liam.rossi211@example.edu,05-07-2024,Dr. Reyes
+3,Sam Patel,11,3.02,Mathematics,sam.patel582@example.edu,12-04-2022,Dr. Osei
+4,Omar Alvarez,9,3.41,History,omar.alvarez558@example.edu,03-07-2023,Dr. Falk
+5,Ivan Wright,12,3.33,Biology,ivan.wright667@example.edu,27-07-2023,Dr. Reyes
+6,Noah Falk,12,3.14,History,noah.falk356@example.edu,13-02-2021,Dr. Falk
+7,Noah Rossi,9,3.32,Chemistry,noah.rossi483@example.edu,15-03-2024,Dr. Whitman
+8,Tariq Thompson,12,3.99,Mathematics,tariq.thompson420@example.edu,08-06-2021,Dr. Falk
+9,Ava Nguyen,9,2.76,Undeclared,ava.nguyen263@example.edu,22-12-2021,Dr. Reyes
+10,Sam Kumar,9,3.25,Art,sam.kumar982@example.edu,07-11-2023,Dr. Falk
+11,Zara Haas,11,2.82,Undeclared,zara.haas44@example.edu,02-02-2023,Dr. Osei
+12,Wei Osei,9,2.27,Chemistry,wei.osei9@example.edu,16-03-2023,Dr. Reyes
+13,Liam Shah,10,3.87,Biology,liam.shah270@example.edu,09-11-2023,Dr. Reyes
+14,Jordan Nguyen,10,3.18,Chemistry,jordan.nguyen949@example.edu,14-10-2021,Dr. Kapoor
+15,Omar Kumar,12,2.99,Undeclared,omar.kumar712@example.edu,23-11-2025,Dr. Whitman
+16,Ken Thompson,10,3.01,Undeclared,ken.thompson962@example.edu,15-09-2025,Dr. Falk
+17,Tariq Davis,11,2.22,Chemistry,tariq.davis852@example.edu,24-09-2023,Dr. Reyes
+18,Morgan Haas,12,2.25,Undeclared,morgan.haas910@example.edu,21-01-2022,Dr. Reyes
+19,Omar Osei,9,3.58,Mathematics,omar.osei860@example.edu,25-12-2023,Dr. Whitman
+20,Liam Wright,10,3.18,Biology,liam.wright520@example.edu,18-04-2024,Dr. Reyes
+21,Grace Bianchi,11,3.92,Chemistry,grace.bianchi750@example.edu,13-04-2022,Dr. Falk
+22,Hana Garcia,12,2.03,Undeclared,hana.garcia97@example.edu,01-12-2022,Dr. Kapoor
+23,Alex Alvarez,9,3.88,History,alex.alvarez198@example.edu,28-11-2025,Dr. Reyes
+24,Alex Thompson,10,2.79,History,alex.thompson271@example.edu,09-01-2022,Dr. Whitman
+25,Ivan Haas,10,3.72,Chemistry,ivan.haas916@example.edu,02-10-2021,Dr. Falk
+26,Grace Lin,10,2.01,Undeclared,grace.lin68@example.edu,23-01-2021,Dr. Reyes
+27,Fatima Falk,11,2.2,Chemistry,fatima.falk164@example.edu,25-06-2023,Dr. Osei
+28,Elena Osei,9,2.12,Art,elena.osei732@example.edu,04-05-2025,Dr. Osei
+29,Morgan Kowalski,11,3.09,Art,morgan.kowalski29@example.edu,24-12-2025,Dr. Kapoor
+30,Olivia Blake,12,3.97,Mathematics,olivia.blake210@example.edu,12-03-2022,Dr. Whitman
+31,Olivia Novak,11,3.59,Computer Science,olivia.novak297@example.edu,27-05-2021,Dr. Osei
+32,Ava Shah,9,2.22,Physics,ava.shah37@example.edu,13-05-2022,Dr. Kapoor
+33,Ravi Lee,12,2.43,Art,ravi.lee13@example.edu,13-09-2022,Dr. Reyes
+34,Fatima Bianchi,10,2.11,Computer Science,fatima.bianchi798@example.edu,20-01-2021,Dr. Falk
+35,Hana Dubois,10,2.78,Mathematics,hana.dubois739@example.edu,19-02-2022,Dr. Falk
+36,Liam Shah,9,2.02,Art,liam.shah488@example.edu,01-06-2025,Dr. Whitman
+37,Jordan Garcia,10,2.27,Physics,jordan.garcia27@example.edu,20-04-2024,Dr. Reyes
+38,Sam Patel,9,3.31,Computer Science,sam.patel165@example.edu,07-02-2021,Dr. Kapoor
+39,Elena Rossi,9,3.49,Art,elena.rossi906@example.edu,13-11-2021,Dr. Reyes
+40,Morgan Thompson,9,2.05,Undeclared,morgan.thompson324@example.edu,14-12-2023,Dr. Whitman
+41,Olivia Lee,10,3.09,Biology,olivia.lee486@example.edu,09-08-2021,Dr. Falk
+42,Noah Shah,9,3.97,Computer Science,noah.shah845@example.edu,10-05-2022,Dr. Osei
+43,Ava Mendes,10,2.19,Mathematics,ava.mendes16@example.edu,06-06-2022,Dr. Osei
+44,Leila Falk,11,3.51,Computer Science,leila.falk978@example.edu,09-10-2021,Dr. Falk
+45,Diego Novak,12,3.6,Art,diego.novak905@example.edu,20-07-2022,Dr. Whitman
+46,Liam Petrov,10,2.84,History,liam.petrov324@example.edu,05-04-2021,Dr. Reyes
+47,Ravi Rivera,12,3.21,Undeclared,ravi.rivera738@example.edu,22-01-2025,Dr. Osei
+48,Mia Mendes,11,3.17,History,mia.mendes115@example.edu,05-01-2024,Dr. Whitman
+49,Jordan Falk,9,2.64,Biology,jordan.falk175@example.edu,13-09-2024,Dr. Falk
+50,Diego Alvarez,12,2.51,Mathematics,diego.alvarez811@example.edu,14-11-2025,Dr. Osei
+51,Liam Lin,12,4,Physics,liam.lin513@example.edu,10-05-2025,Dr. Reyes
+52,Mia Chen,10,2.88,Biology,mia.chen579@example.edu,02-10-2021,Dr. Reyes
+53,Ethan Alvarez,10,2.17,Undeclared,ethan.alvarez45@example.edu,19-07-2021,Dr. Kapoor
+54,Leila Novak,10,2.79,Computer Science,leila.novak854@example.edu,08-06-2022,Dr. Falk
+55,Zara Torres,12,2.54,Physics,zara.torres517@example.edu,08-02-2022,Dr. Kapoor
+56,Lucas Shah,11,2.55,Computer Science,lucas.shah152@example.edu,03-03-2021,Dr. Osei
+57,Liam Khan,12,3.37,Computer Science,liam.khan888@example.edu,11-06-2021,Dr. Whitman
+58,Yuki Patel,10,2,Physics,yuki.patel19@example.edu,13-09-2025,Dr. Osei
+59,Omar Wright,12,2.91,Biology,omar.wright627@example.edu,17-01-2021,Dr. Kapoor
+60,Ken Kowalski,9,2.24,Biology,ken.kowalski416@example.edu,19-01-2021,Dr. Whitman
+61,Sofia Falk,10,3.64,Computer Science,sofia.falk702@example.edu,15-04-2024,Dr. Kapoor
+62,Wei Osei,12,3.48,Physics,wei.osei398@example.edu,26-09-2021,Dr. Falk
+63,Ethan Osei,9,3.89,Mathematics,ethan.osei492@example.edu,08-07-2023,Dr. Whitman
+64,Priya Chen,11,3.37,Chemistry,priya.chen445@example.edu,24-02-2021,Dr. Osei
+65,Grace Rivera,9,3.05,Biology,grace.rivera326@example.edu,20-11-2021,Dr. Kapoor
+66,Ivan Mendes,11,2.66,Computer Science,ivan.mendes778@example.edu,05-05-2025,Dr. Whitman
+67,Liam Bianchi,11,3.61,Physics,liam.bianchi71@example.edu,11-04-2023,Dr. Osei
+68,Mia Shah,12,2.06,History,mia.shah385@example.edu,20-10-2025,Dr. Falk
+69,Ethan Falk,11,3.73,Mathematics,ethan.falk453@example.edu,02-12-2022,Dr. Whitman
+70,Priya Osei,10,2.53,Physics,priya.osei830@example.edu,25-12-2022,Dr. Kapoor
+71,Leila Rivera,10,3.84,Chemistry,leila.rivera526@example.edu,25-10-2024,Dr. Falk
+72,Alex Blake,12,2.28,History,alex.blake513@example.edu,09-08-2021,Dr. Falk
+73,Yuki Blake,12,2.45,History,yuki.blake653@example.edu,10-07-2022,Dr. Osei
+74,Leila Kim,11,3.99,Physics,leila.kim9@example.edu,06-02-2023,Dr. Kapoor
+75,Jordan Kowalski,10,3.1,History,jordan.kowalski110@example.edu,22-02-2025,Dr. Reyes
+76,Sam Bianchi,10,3.57,History,sam.bianchi355@example.edu,10-01-2025,Dr. Reyes
+77,Jordan Sato,9,2.12,Computer Science,jordan.sato225@example.edu,14-05-2021,Dr. Reyes
+78,Alex Kumar,9,2.26,Chemistry,alex.kumar535@example.edu,03-08-2022,Dr. Whitman
+79,Sam Khan,10,2.4,Computer Science,sam.khan582@example.edu,12-02-2024,Dr. Whitman
+80,Morgan Chen,11,3.89,History,morgan.chen12@example.edu,14-12-2024,Dr. Reyes
+81,Hana Davis,10,3.91,Undeclared,hana.davis320@example.edu,02-12-2024,Dr. Falk
+82,Ivan Thompson,10,3.96,Mathematics,ivan.thompson225@example.edu,27-07-2023,Dr. Whitman
+83,Jordan Alvarez,9,2.67,Physics,jordan.alvarez375@example.edu,24-12-2024,Dr. Osei
+84,Diego Wright,12,3.69,Undeclared,diego.wright241@example.edu,14-09-2023,Dr. Whitman
+85,Olivia Shah,10,2.33,History,olivia.shah776@example.edu,22-12-2021,Dr. Osei
+86,Elena Lin,10,2.79,Physics,elena.lin522@example.edu,23-07-2024,Dr. Reyes
+87,Leila Mendes,12,3.91,Computer Science,leila.mendes283@example.edu,15-10-2021,Dr. Reyes
+88,Tariq Osei,12,3.02,Undeclared,tariq.osei810@example.edu,16-05-2025,Dr. Reyes
+89,Elena Rivera,10,3.16,Chemistry,elena.rivera371@example.edu,14-01-2021,Dr. Whitman
+90,Omar Nguyen,11,3,Art,omar.nguyen309@example.edu,08-03-2022,Dr. Falk
+91,Tariq Torres,10,2.62,Undeclared,tariq.torres744@example.edu,25-12-2024,Dr. Reyes
+92,Zara Blake,9,2.3,History,zara.blake810@example.edu,20-05-2024,Dr. Falk
+93,Ava Mendes,11,3.15,Computer Science,ava.mendes18@example.edu,23-11-2024,Dr. Falk
+94,Omar Wright,9,3.53,Biology,omar.wright687@example.edu,25-08-2025,Dr. Osei
+95,Zara Osei,9,3.06,Art,zara.osei256@example.edu,14-11-2021,Dr. Osei
+96,Ethan Kim,11,3.35,Undeclared,ethan.kim513@example.edu,24-03-2025,Dr. Whitman
+97,Lucas Nguyen,11,3.17,Mathematics,lucas.nguyen550@example.edu,13-07-2021,Dr. Falk
+98,Tariq Kowalski,9,2.69,Biology,tariq.kowalski837@example.edu,06-01-2021,Dr. Whitman
+99,Ava Novak,11,2.62,Undeclared,ava.novak85@example.edu,28-04-2022,Dr. Whitman
+100,Jordan Silva,12,2.1,Mathematics,jordan.silva5@example.edu,05-08-2022,Dr. Whitman
+101,Fatima Khan,12,2.11,Physics,fatima.khan208@example.edu,23-01-2022,Dr. Osei
+102,Jordan Alvarez,12,3.1,Physics,jordan.alvarez83@example.edu,02-05-2021,Dr. Whitman
+103,Liam Wright,12,3.63,Chemistry,liam.wright110@example.edu,04-12-2024,Dr. Kapoor
+104,Elena Lin,12,2.09,Biology,elena.lin906@example.edu,25-03-2024,Dr. Falk
+105,Wei Silva,9,3.44,Undeclared,wei.silva101@example.edu,10-11-2025,Dr. Reyes
+106,Elena Nguyen,11,3.73,Physics,elena.nguyen644@example.edu,07-02-2021,Dr. Reyes
+107,Emma Kim,11,3.06,Biology,emma.kim24@example.edu,18-03-2024,Dr. Kapoor
+108,Wei Haas,12,3.05,Physics,wei.haas483@example.edu,20-08-2022,Dr. Whitman
+109,Fatima Kim,12,2.22,Mathematics,fatima.kim109@example.edu,18-01-2024,Dr. Kapoor
+110,Jordan Kowalski,12,3.95,Computer Science,jordan.kowalski133@example.edu,20-11-2022,Dr. Kapoor
+111,Ivan Rossi,11,2.96,Biology,ivan.rossi549@example.edu,11-08-2022,Dr. Osei
+112,Priya Lin,12,3.12,Biology,priya.lin922@example.edu,26-03-2021,Dr. Falk
+113,Zara Chen,11,3.57,Art,zara.chen888@example.edu,01-01-2025,Dr. Osei
+114,Ivan Torres,11,2.39,Computer Science,ivan.torres219@example.edu,06-03-2024,Dr. Whitman
+115,Sofia Falk,9,3.58,Mathematics,sofia.falk617@example.edu,12-09-2024,Dr. Reyes
+116,Mia Rossi,12,2.04,Art,mia.rossi699@example.edu,14-02-2023,Dr. Kapoor
+117,Fatima Lee,10,3.16,History,fatima.lee714@example.edu,11-02-2022,Dr. Whitman
+118,Diego Lee,12,3.79,Computer Science,diego.lee398@example.edu,16-01-2021,Dr. Whitman
+119,Liam Patel,11,2.09,Undeclared,liam.patel915@example.edu,28-05-2022,Dr. Osei
+120,Fatima Khan,9,3.24,Chemistry,fatima.khan592@example.edu,18-05-2022,Dr. Falk
+121,Lucas Rivera,10,2.05,Undeclared,lucas.rivera935@example.edu,14-12-2021,Dr. Kapoor
+122,Omar Dubois,9,3.63,History,omar.dubois879@example.edu,05-01-2022,Dr. Whitman
+123,Carlos Cohen,9,2.75,History,carlos.cohen782@example.edu,23-07-2025,Dr. Falk
+124,Sofia Silva,10,2.46,History,sofia.silva239@example.edu,03-09-2023,Dr. Whitman
+125,Alex Davis,9,3.64,Undeclared,alex.davis934@example.edu,09-07-2024,Dr. Osei
+126,Olivia Nguyen,12,3.71,Biology,olivia.nguyen328@example.edu,18-04-2024,Dr. Falk
+127,Emma Khan,9,2.27,Biology,emma.khan928@example.edu,11-08-2024,Dr. Whitman
+128,Morgan Kim,11,3.53,Art,morgan.kim519@example.edu,12-06-2021,Dr. Falk
+129,Morgan Rossi,9,3.52,Art,morgan.rossi165@example.edu,13-12-2022,Dr. Whitman
+130,Morgan Wright,11,2.87,History,morgan.wright791@example.edu,25-07-2023,Dr. Reyes
+131,Grace Blake,9,2.72,Art,grace.blake105@example.edu,07-08-2021,Dr. Whitman
+132,Elena Nguyen,12,2.25,Mathematics,elena.nguyen825@example.edu,16-11-2023,Dr. Kapoor
+133,Ivan Kowalski,10,2.96,Physics,ivan.kowalski222@example.edu,11-08-2021,Dr. Falk
+134,Noah Nguyen,9,3.55,Art,noah.nguyen304@example.edu,17-05-2021,Dr. Falk
+135,Fatima Lin,10,2.77,Computer Science,fatima.lin577@example.edu,09-06-2022,Dr. Reyes
+136,Wei Nguyen,12,3.96,Art,wei.nguyen191@example.edu,27-09-2025,Dr. Falk
+137,Priya Lin,12,2.86,Computer Science,priya.lin11@example.edu,13-11-2024,Dr. Osei
+138,Morgan Garcia,9,3.72,Chemistry,morgan.garcia966@example.edu,24-04-2023,Dr. Kapoor
+139,Leila Rossi,12,2.84,Computer Science,leila.rossi367@example.edu,07-03-2025,Dr. Kapoor
+140,Ravi Khan,12,3.21,Mathematics,ravi.khan918@example.edu,17-05-2021,Dr. Kapoor
+141,Sofia Falk,10,2.35,History,sofia.falk799@example.edu,09-04-2023,Dr. Whitman
+142,Carlos Dubois,9,3.37,Computer Science,carlos.dubois486@example.edu,14-10-2022,Dr. Whitman
+143,Yuki Davis,12,2.86,Undeclared,yuki.davis796@example.edu,07-06-2021,Dr. Falk
+144,Ravi Lin,9,3.47,Art,ravi.lin512@example.edu,09-06-2023,Dr. Osei
+145,Ravi Haas,9,3.17,Physics,ravi.haas248@example.edu,05-05-2025,Dr. Osei
+146,Olivia Patel,12,3.5,Computer Science,olivia.patel467@example.edu,02-03-2022,Dr. Osei
+147,Ava Bianchi,10,2.96,Biology,ava.bianchi780@example.edu,27-08-2021,Dr. Falk
+148,Ivan Sato,12,2.85,Biology,ivan.sato992@example.edu,14-02-2024,Dr. Osei
+149,Priya Kowalski,11,2.32,History,priya.kowalski117@example.edu,27-05-2023,Dr. Kapoor
+150,Sofia Falk,10,2.06,Computer Science,sofia.falk963@example.edu,19-07-2021,Dr. Whitman
+151,Liam Falk,10,2.37,Computer Science,liam.falk765@example.edu,26-10-2024,Dr. Kapoor
+152,Alex Lee,11,2.37,Mathematics,alex.lee276@example.edu,02-02-2024,Dr. Reyes
+153,Zara Chen,9,2.9,Physics,zara.chen944@example.edu,13-02-2022,Dr. Osei
+154,Grace Sato,9,3.78,Physics,grace.sato964@example.edu,19-05-2021,Dr. Osei
+155,Liam Thompson,12,3.67,Computer Science,liam.thompson260@example.edu,19-07-2023,Dr. Osei
+156,Tariq Lee,12,2.32,Undeclared,tariq.lee802@example.edu,08-07-2024,Dr. Kapoor
+157,Alex Osei,10,3.92,Physics,alex.osei760@example.edu,09-06-2024,Dr. Whitman
+158,Ava Sato,11,3.23,History,ava.sato112@example.edu,24-04-2025,Dr. Kapoor
+159,Noah Blake,12,3.4,Art,noah.blake185@example.edu,06-02-2025,Dr. Kapoor
+160,Jordan Novak,12,2.44,Physics,jordan.novak306@example.edu,02-07-2025,Dr. Osei
+161,Elena Shah,12,2.91,History,elena.shah844@example.edu,28-08-2022,Dr. Osei
+162,Zara Bianchi,11,2.71,Chemistry,zara.bianchi603@example.edu,20-05-2024,Dr. Kapoor
+163,Carlos Chen,12,3.45,Mathematics,carlos.chen309@example.edu,24-07-2021,Dr. Reyes
+164,Carlos Kowalski,12,3.69,Physics,carlos.kowalski174@example.edu,01-09-2021,Dr. Whitman
+165,Ken Novak,10,3.19,Computer Science,ken.novak191@example.edu,25-06-2021,Dr. Falk
+166,Yuki Novak,10,3.24,Undeclared,yuki.novak266@example.edu,02-10-2025,Dr. Kapoor
+167,Noah Thompson,10,2.7,Chemistry,noah.thompson254@example.edu,01-03-2022,Dr. Osei
+168,Noah Mendes,9,2.08,History,noah.mendes928@example.edu,28-06-2023,Dr. Whitman
+169,Jordan Alvarez,10,3.98,Undeclared,jordan.alvarez337@example.edu,28-04-2021,Dr. Reyes
+170,Ken Nguyen,11,3.39,Chemistry,ken.nguyen639@example.edu,07-04-2022,Dr. Osei
+171,Ethan Haas,10,2.79,Computer Science,ethan.haas607@example.edu,01-03-2024,Dr. Kapoor
+172,Alex Mendes,10,2.24,Undeclared,alex.mendes771@example.edu,06-02-2023,Dr. Kapoor
+173,Priya Lin,11,3.5,Mathematics,priya.lin321@example.edu,20-10-2025,Dr. Osei
+174,Priya Lee,10,2.49,Art,priya.lee412@example.edu,16-02-2022,Dr. Reyes
+175,Ethan Falk,11,2.56,Biology,ethan.falk929@example.edu,06-07-2021,Dr. Kapoor
+176,Hana Haas,11,3.28,Chemistry,hana.haas924@example.edu,20-06-2024,Dr. Whitman
+177,Ken Blake,10,2.79,Biology,ken.blake720@example.edu,16-02-2022,Dr. Falk
+178,Noah Khan,12,2.26,Mathematics,noah.khan876@example.edu,11-08-2023,Dr. Osei
+179,Wei Haas,12,2.5,Biology,wei.haas919@example.edu,01-12-2022,Dr. Kapoor
+180,Ravi Lee,12,3.62,Chemistry,ravi.lee28@example.edu,19-10-2021,Dr. Osei
+181,Wei Khan,11,2.63,Computer Science,wei.khan277@example.edu,06-04-2021,Dr. Whitman
+182,Sam Mendes,10,3.72,History,sam.mendes11@example.edu,09-02-2023,Dr. Osei
+183,Diego Kowalski,10,2.2,Biology,diego.kowalski307@example.edu,27-11-2022,Dr. Whitman
+184,Lucas Haas,12,2.97,Art,lucas.haas654@example.edu,15-05-2022,Dr. Kapoor
+185,Morgan Mendes,11,3.72,Computer Science,morgan.mendes995@example.edu,18-09-2021,Dr. Osei
+186,Fatima Novak,11,3.26,History,fatima.novak718@example.edu,19-02-2025,Dr. Osei
+187,Diego Cohen,9,2.61,Art,diego.cohen505@example.edu,16-07-2021,Dr. Reyes
+188,Elena Falk,10,3.92,Chemistry,elena.falk776@example.edu,19-10-2022,Dr. Kapoor
+189,Ravi Mendes,9,2.72,Physics,ravi.mendes170@example.edu,23-08-2023,Dr. Kapoor
+190,Wei Wright,12,2.55,History,wei.wright652@example.edu,24-06-2025,Dr. Kapoor
+191,Lucas Patel,10,3.95,History,lucas.patel717@example.edu,26-12-2024,Dr. Reyes
+192,Morgan Rossi,10,2.04,Undeclared,morgan.rossi408@example.edu,22-03-2024,Dr. Kapoor
+193,Hana Thompson,11,2.61,Chemistry,hana.thompson883@example.edu,12-12-2023,Dr. Whitman
+194,Omar Falk,12,2.34,Computer Science,omar.falk177@example.edu,01-06-2022,Dr. Whitman
+195,Zara Thompson,11,3.46,Mathematics,zara.thompson173@example.edu,06-08-2023,Dr. Kapoor
+196,Ravi Patel,11,3.76,Physics,ravi.patel93@example.edu,08-03-2022,Dr. Falk
+197,Sam Wright,10,3.19,Physics,sam.wright621@example.edu,06-07-2024,Dr. Reyes
+198,Priya Blake,12,2.8,Undeclared,priya.blake941@example.edu,19-01-2023,Dr. Falk
+199,Ravi Patel,10,2.13,Undeclared,ravi.patel663@example.edu,23-01-2021,Dr. Osei
+200,Nadia Rivera,9,3.47,Biology,nadia.rivera589@example.edu,12-04-2022,Dr. Osei
+201,Zara Alvarez,10,2.27,Undeclared,zara.alvarez857@example.edu,03-02-2024,Dr. Kapoor
+202,Noah Rossi,9,3.39,Mathematics,noah.rossi989@example.edu,05-09-2021,Dr. Reyes
+203,Olivia Petrov,9,2.64,Undeclared,olivia.petrov410@example.edu,24-11-2021,Dr. Reyes
+204,Elena Novak,9,2.95,Mathematics,elena.novak892@example.edu,10-07-2022,Dr. Osei
+205,Fatima Nguyen,11,2.02,History,fatima.nguyen234@example.edu,07-03-2024,Dr. Falk
+206,Ravi Rivera,12,3.65,Computer Science,ravi.rivera878@example.edu,04-11-2022,Dr. Osei
+207,Tariq Sato,10,3.57,Biology,tariq.sato13@example.edu,10-05-2025,Dr. Whitman
+208,Ravi Wright,10,3.88,Biology,ravi.wright399@example.edu,27-05-2023,Dr. Falk
+209,Jordan Cohen,10,2.92,Art,jordan.cohen482@example.edu,12-09-2024,Dr. Reyes
+210,Ravi Sato,9,2.84,Chemistry,ravi.sato810@example.edu,10-10-2023,Dr. Osei
+211,Nadia Kumar,11,3.76,Biology,nadia.kumar485@example.edu,04-06-2023,Dr. Kapoor
+212,Zara Lin,9,4,Art,zara.lin635@example.edu,07-10-2025,Dr. Osei
+213,Ethan Silva,10,2.08,Computer Science,ethan.silva294@example.edu,15-04-2025,Dr. Falk
+214,Mia Kowalski,11,2.16,Art,mia.kowalski173@example.edu,12-05-2022,Dr. Reyes
+215,Hana Davis,10,3,Mathematics,hana.davis587@example.edu,19-08-2023,Dr. Whitman
+216,Ava Mendes,11,3.55,History,ava.mendes764@example.edu,27-07-2022,Dr. Osei
+217,Ravi Osei,9,2.56,Art,ravi.osei178@example.edu,14-09-2022,Dr. Falk
+218,Sam Bianchi,9,3.96,Physics,sam.bianchi610@example.edu,17-04-2023,Dr. Falk
+219,Ivan Sato,11,2.96,Undeclared,ivan.sato179@example.edu,24-07-2021,Dr. Falk
+220,Noah Davis,9,3.67,Physics,noah.davis596@example.edu,18-08-2022,Dr. Whitman
+221,Mia Petrov,12,2.1,Art,mia.petrov867@example.edu,04-12-2024,Dr. Falk
+222,Noah Lin,11,2.55,Art,noah.lin53@example.edu,13-12-2024,Dr. Whitman
+223,Zara Kowalski,12,3.69,History,zara.kowalski900@example.edu,14-05-2024,Dr. Reyes
+224,Morgan Petrov,12,3.51,Mathematics,morgan.petrov567@example.edu,22-06-2021,Dr. Falk
+225,Yuki Silva,9,3.04,Physics,yuki.silva961@example.edu,15-03-2021,Dr. Reyes
+226,Leila Silva,10,3.15,Biology,leila.silva12@example.edu,11-05-2025,Dr. Whitman
+227,Fatima Lin,12,2.04,Chemistry,fatima.lin373@example.edu,02-07-2024,Dr. Falk
+228,Yuki Kumar,10,3.41,Art,yuki.kumar274@example.edu,17-10-2024,Dr. Osei
+229,Liam Chen,12,2.97,Art,liam.chen682@example.edu,27-01-2022,Dr. Reyes
+230,Olivia Silva,9,3.1,Computer Science,olivia.silva188@example.edu,14-07-2022,Dr. Reyes
+231,Leila Falk,11,3.55,Physics,leila.falk790@example.edu,17-08-2025,Dr. Kapoor
+232,Ravi Davis,10,3,History,ravi.davis693@example.edu,13-01-2025,Dr. Reyes
+233,Hana Patel,12,2.41,Computer Science,hana.patel714@example.edu,20-12-2025,Dr. Kapoor
+234,Hana Garcia,12,2.05,History,hana.garcia818@example.edu,28-01-2023,Dr. Falk
+235,Ken Blake,10,3.66,Art,ken.blake61@example.edu,28-11-2023,Dr. Kapoor
+236,Ravi Kowalski,9,3.09,Mathematics,ravi.kowalski700@example.edu,14-01-2024,Dr. Reyes
+237,Liam Thompson,9,3.53,Mathematics,liam.thompson782@example.edu,22-10-2022,Dr. Whitman
+238,Olivia Patel,10,3.53,Biology,olivia.patel690@example.edu,06-09-2025,Dr. Reyes
+239,Jordan Osei,10,2.84,History,jordan.osei989@example.edu,15-04-2022,Dr. Whitman
+240,Grace Khan,9,3.07,Undeclared,grace.khan626@example.edu,13-03-2023,Dr. Kapoor
+241,Ethan Thompson,9,2.41,Chemistry,ethan.thompson996@example.edu,25-11-2021,Dr. Osei
+242,Emma Wright,9,2.23,History,emma.wright794@example.edu,14-10-2025,Dr. Reyes
+243,Alex Rossi,10,2.13,History,alex.rossi840@example.edu,07-08-2025,Dr. Whitman
+244,Carlos Torres,10,3.92,Undeclared,carlos.torres238@example.edu,24-09-2025,Dr. Falk
+245,Wei Dubois,10,3.62,Computer Science,wei.dubois802@example.edu,24-08-2021,Dr. Kapoor
+246,Jordan Shah,12,3,Physics,jordan.shah396@example.edu,09-11-2024,Dr. Osei
+247,Wei Lee,11,3.77,Physics,wei.lee106@example.edu,28-11-2024,Dr. Falk
+248,Yuki Kowalski,10,3.8,Biology,yuki.kowalski337@example.edu,15-04-2021,Dr. Whitman
+249,Jordan Garcia,9,3.87,Computer Science,jordan.garcia423@example.edu,15-01-2023,Dr. Whitman
+250,Liam Chen,9,3.04,Biology,liam.chen466@example.edu,05-07-2022,Dr. Kapoor
+251,Ava Alvarez,12,3.1,Undeclared,ava.alvarez853@example.edu,11-09-2023,Dr. Whitman
+252,Wei Haas,9,2.92,History,wei.haas975@example.edu,21-03-2025,Dr. Reyes
+253,Ivan Torres,9,2.15,Physics,ivan.torres434@example.edu,04-11-2025,Dr. Kapoor
+254,Yuki Sato,12,3.72,Computer Science,yuki.sato820@example.edu,13-07-2024,Dr. Osei
+255,Alex Osei,9,3.06,Physics,alex.osei246@example.edu,15-02-2025,Dr. Whitman
+256,Ivan Kowalski,10,3.99,Mathematics,ivan.kowalski200@example.edu,09-05-2023,Dr. Osei
+257,Emma Dubois,12,3.26,Computer Science,emma.dubois658@example.edu,17-06-2023,Dr. Reyes
+258,Yuki Chen,9,2.36,Undeclared,yuki.chen830@example.edu,06-05-2022,Dr. Falk
+259,Liam Shah,9,3.17,Computer Science,liam.shah980@example.edu,12-08-2022,Dr. Osei
+260,Alex Thompson,11,3.14,Mathematics,alex.thompson843@example.edu,20-04-2021,Dr. Reyes
+261,Ivan Kowalski,12,2,Undeclared,ivan.kowalski249@example.edu,05-06-2024,Dr. Falk
+262,Priya Mendes,11,2.44,Mathematics,priya.mendes262@example.edu,23-02-2025,Dr. Kapoor
+263,Elena Lin,11,3.56,Undeclared,elena.lin696@example.edu,28-04-2021,Dr. Reyes
+264,Elena Silva,11,3.68,Computer Science,elena.silva122@example.edu,19-12-2023,Dr. Reyes
+265,Olivia Kim,11,2.55,Mathematics,olivia.kim421@example.edu,05-04-2022,Dr. Osei
+266,Ravi Kumar,12,2.81,Art,ravi.kumar619@example.edu,14-09-2025,Dr. Falk
+267,Ken Rivera,10,2.75,Undeclared,ken.rivera581@example.edu,06-11-2024,Dr. Osei
+268,Diego Kumar,11,2.37,Mathematics,diego.kumar189@example.edu,19-07-2022,Dr. Kapoor
+269,Morgan Chen,12,2.83,Biology,morgan.chen990@example.edu,19-10-2024,Dr. Reyes
+270,Ava Patel,11,2.75,Computer Science,ava.patel603@example.edu,18-12-2025,Dr. Osei
+271,Liam Davis,12,3.73,Mathematics,liam.davis570@example.edu,23-08-2025,Dr. Reyes
+272,Grace Alvarez,10,2.74,Mathematics,grace.alvarez13@example.edu,08-02-2023,Dr. Falk
+273,Lucas Thompson,9,3.05,Undeclared,lucas.thompson917@example.edu,04-04-2025,Dr. Falk
+274,Liam Alvarez,10,3.95,Biology,liam.alvarez159@example.edu,01-07-2022,Dr. Whitman
+275,Alex Sato,9,2.58,Physics,alex.sato669@example.edu,05-07-2024,Dr. Kapoor
+276,Diego Khan,9,3.91,Undeclared,diego.khan759@example.edu,28-01-2022,Dr. Falk
+277,Diego Cohen,9,2.44,Biology,diego.cohen18@example.edu,26-09-2022,Dr. Kapoor
+278,Olivia Davis,10,3.8,Art,olivia.davis136@example.edu,20-10-2021,Dr. Kapoor
+279,Ravi Bianchi,11,3.67,Mathematics,ravi.bianchi305@example.edu,26-12-2022,Dr. Osei
+280,Ethan Cohen,9,2.66,Computer Science,ethan.cohen57@example.edu,08-03-2025,Dr. Falk
+281,Elena Kim,9,3.14,Art,elena.kim437@example.edu,26-10-2024,Dr. Whitman
+282,Nadia Torres,12,2.25,Physics,nadia.torres665@example.edu,18-07-2023,Dr. Osei
+283,Yuki Chen,9,2.95,History,yuki.chen252@example.edu,20-08-2021,Dr. Reyes
+284,Ravi Lee,12,3.14,Art,ravi.lee157@example.edu,10-01-2023,Dr. Osei
+285,Omar Wright,12,2.52,Computer Science,omar.wright326@example.edu,22-02-2022,Dr. Osei
+286,Olivia Petrov,11,3.7,Biology,olivia.petrov14@example.edu,16-08-2021,Dr. Reyes
+287,Liam Bianchi,10,2.15,History,liam.bianchi64@example.edu,03-07-2022,Dr. Kapoor
+288,Hana Petrov,10,3.93,Computer Science,hana.petrov712@example.edu,24-10-2023,Dr. Kapoor
+289,Nadia Khan,9,3.18,Art,nadia.khan199@example.edu,02-08-2022,Dr. Osei
+290,Ethan Khan,10,3.62,Undeclared,ethan.khan282@example.edu,18-05-2024,Dr. Kapoor
+291,Alex Kowalski,11,2.99,Physics,alex.kowalski455@example.edu,28-07-2025,Dr. Osei
+292,Hana Kim,11,3.97,Physics,hana.kim709@example.edu,11-07-2024,Dr. Whitman
+293,Hana Kowalski,9,3.57,Physics,hana.kowalski941@example.edu,03-06-2025,Dr. Reyes
+294,Fatima Kim,10,3.73,History,fatima.kim81@example.edu,13-06-2023,Dr. Osei
+295,Mia Kumar,9,3.12,History,mia.kumar522@example.edu,12-06-2021,Dr. Kapoor
+296,Diego Rivera,9,2.64,Art,diego.rivera267@example.edu,26-12-2023,Dr. Kapoor
+297,Sofia Petrov,11,2.5,Biology,sofia.petrov944@example.edu,21-01-2024,Dr. Reyes
+298,Elena Garcia,9,2.1,Physics,elena.garcia602@example.edu,23-01-2022,Dr. Falk
+299,Emma Sato,11,2.23,Undeclared,emma.sato19@example.edu,26-10-2022,Dr. Kapoor
+300,Morgan Thompson,9,3.61,Physics,morgan.thompson698@example.edu,13-10-2022,Dr. Reyes
+301,Hana Thompson,9,2.48,History,hana.thompson938@example.edu,13-09-2025,Dr. Falk
+302,Ivan Silva,9,3.32,Physics,ivan.silva156@example.edu,06-06-2024,Dr. Kapoor
+303,Fatima Davis,9,3.94,Mathematics,fatima.davis290@example.edu,20-12-2024,Dr. Osei
+304,Tariq Patel,10,2.69,Mathematics,tariq.patel136@example.edu,07-01-2022,Dr. Kapoor
+305,Grace Wright,11,3.7,Physics,grace.wright781@example.edu,02-08-2024,Dr. Kapoor
+306,Diego Alvarez,12,3.98,Physics,diego.alvarez611@example.edu,22-01-2022,Dr. Whitman
+307,Nadia Silva,9,3.08,Undeclared,nadia.silva887@example.edu,03-02-2022,Dr. Osei
+308,Wei Haas,10,3.62,Mathematics,wei.haas103@example.edu,18-06-2021,Dr. Falk
+309,Zara Davis,9,2.69,Mathematics,zara.davis247@example.edu,04-11-2022,Dr. Whitman
+310,Nadia Bianchi,12,2.06,Art,nadia.bianchi818@example.edu,01-03-2022,Dr. Falk
+311,Noah Alvarez,12,3.36,Art,noah.alvarez489@example.edu,23-06-2023,Dr. Falk
+312,Ethan Garcia,9,3.73,Computer Science,ethan.garcia941@example.edu,15-02-2022,Dr. Whitman
+313,Ethan Rossi,9,3.65,History,ethan.rossi747@example.edu,09-10-2022,Dr. Reyes
+314,Yuki Dubois,12,3.61,Mathematics,yuki.dubois136@example.edu,08-03-2024,Dr. Falk
+315,Fatima Kowalski,12,3.85,History,fatima.kowalski238@example.edu,24-03-2021,Dr. Reyes
+316,Sam Khan,11,2.03,History,sam.khan498@example.edu,01-08-2025,Dr. Osei
+317,Leila Rossi,12,2.1,Physics,leila.rossi403@example.edu,13-01-2022,Dr. Reyes
+318,Noah Shah,9,2.74,Computer Science,noah.shah749@example.edu,03-11-2025,Dr. Reyes
+319,Mia Novak,9,3.25,Biology,mia.novak12@example.edu,02-10-2022,Dr. Kapoor
+320,Jordan Thompson,9,3.61,Chemistry,jordan.thompson655@example.edu,12-03-2021,Dr. Osei
+321,Alex Alvarez,11,2.68,Chemistry,alex.alvarez786@example.edu,19-06-2024,Dr. Reyes
+322,Fatima Alvarez,11,2.46,Biology,fatima.alvarez589@example.edu,02-07-2022,Dr. Whitman
+323,Nadia Silva,12,2.09,Art,nadia.silva358@example.edu,22-05-2024,Dr. Falk
+324,Mia Dubois,11,3.96,Computer Science,mia.dubois45@example.edu,24-05-2023,Dr. Kapoor
+325,Nadia Wright,11,3.85,Chemistry,nadia.wright527@example.edu,18-02-2021,Dr. Whitman
+326,Ivan Osei,9,3.44,Mathematics,ivan.osei357@example.edu,07-09-2023,Dr. Falk
+327,Yuki Novak,11,3.52,Mathematics,yuki.novak416@example.edu,20-03-2022,Dr. Falk
+328,Morgan Lee,12,3.23,Physics,morgan.lee323@example.edu,01-07-2024,Dr. Osei
+329,Omar Shah,9,3.62,Computer Science,omar.shah318@example.edu,01-07-2025,Dr. Reyes
+330,Alex Wright,12,3.73,Computer Science,alex.wright776@example.edu,01-07-2024,Dr. Osei
+331,Liam Mendes,9,2.73,History,liam.mendes28@example.edu,07-06-2021,Dr. Whitman
+332,Sam Lin,10,3.36,Biology,sam.lin434@example.edu,11-02-2024,Dr. Reyes
+333,Priya Mendes,12,3.14,History,priya.mendes133@example.edu,10-05-2022,Dr. Whitman
+334,Liam Kim,11,2.62,Undeclared,liam.kim58@example.edu,24-05-2024,Dr. Falk
+335,Liam Lee,11,3.39,Art,liam.lee598@example.edu,24-06-2021,Dr. Reyes
+336,Jordan Falk,9,3.52,Mathematics,jordan.falk446@example.edu,13-12-2023,Dr. Kapoor
+337,Liam Shah,11,2.78,Biology,liam.shah568@example.edu,11-04-2022,Dr. Kapoor
+338,Olivia Torres,12,2.79,Physics,olivia.torres384@example.edu,25-01-2024,Dr. Osei
+339,Noah Khan,12,3.7,Biology,noah.khan556@example.edu,28-04-2023,Dr. Whitman
+340,Omar Bianchi,9,3.13,Computer Science,omar.bianchi27@example.edu,14-06-2025,Dr. Reyes
+341,Noah Patel,10,3.7,Computer Science,noah.patel707@example.edu,16-12-2025,Dr. Osei
+342,Omar Petrov,10,2.42,Mathematics,omar.petrov297@example.edu,06-01-2023,Dr. Kapoor
+343,Leila Blake,11,2.48,Computer Science,leila.blake836@example.edu,13-08-2024,Dr. Kapoor
+344,Tariq Falk,10,2.52,Art,tariq.falk485@example.edu,23-10-2022,Dr. Osei
+345,Noah Khan,11,3.3,Physics,noah.khan140@example.edu,06-11-2022,Dr. Whitman
+346,Ken Lee,11,3.38,Physics,ken.lee67@example.edu,07-10-2024,Dr. Osei
+347,Hana Dubois,10,3.03,Undeclared,hana.dubois142@example.edu,16-05-2022,Dr. Whitman
+348,Nadia Falk,10,3.78,Physics,nadia.falk819@example.edu,27-06-2024,Dr. Falk
+349,Tariq Rivera,11,3.69,History,tariq.rivera130@example.edu,15-01-2024,Dr. Falk
+350,Ravi Falk,9,2.4,Chemistry,ravi.falk128@example.edu,23-01-2021,Dr. Reyes
+351,Omar Wright,10,2.43,Computer Science,omar.wright189@example.edu,24-11-2024,Dr. Osei
+352,Leila Blake,12,2.9,Art,leila.blake224@example.edu,14-02-2022,Dr. Kapoor
+353,Fatima Kumar,12,2.8,Undeclared,fatima.kumar748@example.edu,26-01-2024,Dr. Reyes
+354,Alex Patel,11,2.1,Mathematics,alex.patel817@example.edu,20-06-2021,Dr. Falk
+355,Ava Alvarez,11,2.27,Undeclared,ava.alvarez87@example.edu,16-11-2021,Dr. Falk
+356,Diego Kumar,10,3.8,Undeclared,diego.kumar19@example.edu,26-08-2024,Dr. Falk
+357,Lucas Thompson,12,2.91,Computer Science,lucas.thompson381@example.edu,27-01-2025,Dr. Reyes
+358,Elena Thompson,9,3.69,Chemistry,elena.thompson724@example.edu,26-04-2024,Dr. Kapoor
+359,Wei Mendes,12,3.77,Undeclared,wei.mendes969@example.edu,03-12-2024,Dr. Falk
+360,Ken Lin,11,2.63,Art,ken.lin662@example.edu,04-04-2025,Dr. Kapoor
+361,Leila Patel,12,3.5,Undeclared,leila.patel863@example.edu,09-02-2025,Dr. Kapoor
+362,Leila Silva,12,2.07,History,leila.silva834@example.edu,28-01-2023,Dr. Falk
+363,Nadia Silva,10,2.29,Mathematics,nadia.silva794@example.edu,07-05-2024,Dr. Osei
+364,Morgan Khan,10,3.95,Undeclared,morgan.khan915@example.edu,05-02-2024,Dr. Whitman
+365,Ava Silva,9,3.32,Biology,ava.silva338@example.edu,18-05-2025,Dr. Falk
+366,Noah Torres,9,2.01,Biology,noah.torres187@example.edu,24-07-2024,Dr. Osei
+367,Morgan Cohen,10,3.63,Undeclared,morgan.cohen962@example.edu,06-05-2024,Dr. Osei
+368,Emma Rossi,12,3.49,Art,emma.rossi66@example.edu,17-09-2025,Dr. Osei
+369,Leila Blake,10,2.9,Art,leila.blake60@example.edu,18-11-2023,Dr. Falk
+370,Sam Rossi,9,2.77,Biology,sam.rossi749@example.edu,24-12-2022,Dr. Falk
+371,Ken Bianchi,11,2.8,Art,ken.bianchi766@example.edu,18-10-2025,Dr. Falk
+372,Sofia Chen,11,3.03,Art,sofia.chen639@example.edu,25-10-2023,Dr. Reyes
+373,Liam Sato,10,3.94,Art,liam.sato158@example.edu,26-07-2022,Dr. Whitman
+374,Priya Novak,9,3.15,Computer Science,priya.novak428@example.edu,13-07-2021,Dr. Osei
+375,Alex Lee,12,2.65,History,alex.lee751@example.edu,17-11-2024,Dr. Reyes
+376,Mia Davis,12,3.33,Mathematics,mia.davis331@example.edu,16-06-2023,Dr. Falk
+377,Jordan Thompson,11,2.94,Undeclared,jordan.thompson6@example.edu,13-01-2021,Dr. Kapoor
+378,Grace Davis,12,3.62,Computer Science,grace.davis299@example.edu,03-06-2021,Dr. Reyes
+379,Sofia Mendes,11,2.65,Computer Science,sofia.mendes180@example.edu,09-05-2023,Dr. Whitman
+380,Hana Nguyen,12,3.87,Physics,hana.nguyen148@example.edu,17-04-2022,Dr. Reyes
+381,Leila Osei,12,2.03,Chemistry,leila.osei857@example.edu,28-08-2023,Dr. Whitman
+382,Diego Rivera,12,2.04,Chemistry,diego.rivera419@example.edu,20-01-2022,Dr. Falk
+383,Omar Cohen,11,2.31,Chemistry,omar.cohen525@example.edu,06-01-2024,Dr. Whitman
+384,Omar Silva,11,3.46,Chemistry,omar.silva32@example.edu,24-05-2025,Dr. Whitman
+385,Liam Torres,9,3.17,Mathematics,liam.torres654@example.edu,16-10-2021,Dr. Kapoor
+386,Olivia Haas,12,2.27,Undeclared,olivia.haas345@example.edu,09-09-2022,Dr. Whitman
+387,Liam Mendes,12,3.22,Physics,liam.mendes306@example.edu,15-01-2023,Dr. Osei
+388,Carlos Kowalski,12,3.5,Art,carlos.kowalski307@example.edu,19-01-2025,Dr. Falk
+389,Olivia Bianchi,10,3.15,Physics,olivia.bianchi910@example.edu,27-10-2023,Dr. Kapoor
+390,Priya Blake,12,2,Undeclared,priya.blake277@example.edu,28-11-2022,Dr. Whitman
+391,Omar Kim,9,2.71,Computer Science,omar.kim341@example.edu,20-05-2025,Dr. Whitman
+392,Grace Patel,11,2.31,Chemistry,grace.patel99@example.edu,15-12-2025,Dr. Reyes
+393,Olivia Wright,12,2.92,History,olivia.wright979@example.edu,10-11-2021,Dr. Whitman
+394,Lucas Sato,12,3.48,Computer Science,lucas.sato207@example.edu,17-09-2021,Dr. Osei
+395,Elena Alvarez,11,3.57,Mathematics,elena.alvarez714@example.edu,04-05-2025,Dr. Kapoor
+396,Ravi Thompson,10,3.29,Chemistry,ravi.thompson173@example.edu,24-01-2024,Dr. Falk
+397,Diego Osei,12,3.43,Undeclared,diego.osei170@example.edu,27-07-2024,Dr. Reyes
+398,Ethan Cohen,10,2.2,Art,ethan.cohen198@example.edu,13-07-2021,Dr. Osei
+399,Elena Falk,10,3.31,Biology,elena.falk381@example.edu,26-09-2021,Dr. Whitman
+400,Grace Osei,10,2.59,Computer Science,grace.osei908@example.edu,27-06-2024,Dr. Falk
+401,Ken Wright,12,3.25,Physics,ken.wright956@example.edu,08-03-2024,Dr. Osei
+402,Grace Khan,10,2.44,Art,grace.khan122@example.edu,17-10-2024,Dr. Kapoor
+403,Alex Blake,10,2.46,Physics,alex.blake37@example.edu,27-06-2024,Dr. Falk
+404,Tariq Dubois,12,2.11,Undeclared,tariq.dubois830@example.edu,19-08-2024,Dr. Falk
+405,Fatima Torres,9,3.25,Art,fatima.torres431@example.edu,11-06-2024,Dr. Osei
+406,Ken Nguyen,9,3.98,Physics,ken.nguyen864@example.edu,07-12-2024,Dr. Reyes
+407,Lucas Rivera,11,3.17,History,lucas.rivera506@example.edu,18-01-2025,Dr. Kapoor
+408,Ethan Mendes,12,2.34,Chemistry,ethan.mendes518@example.edu,17-09-2023,Dr. Reyes
+409,Ravi Patel,9,3.72,Physics,ravi.patel702@example.edu,03-07-2024,Dr. Osei
+410,Noah Falk,12,3.36,Computer Science,noah.falk118@example.edu,21-01-2025,Dr. Falk
+411,Diego Rivera,9,2.31,Mathematics,diego.rivera868@example.edu,25-09-2021,Dr. Osei
+412,Elena Dubois,9,3.3,Art,elena.dubois8@example.edu,23-07-2024,Dr. Kapoor
+413,Priya Haas,9,2.09,Computer Science,priya.haas225@example.edu,19-03-2024,Dr. Kapoor
+414,Morgan Rossi,10,2.45,Mathematics,morgan.rossi678@example.edu,15-10-2023,Dr. Whitman
+415,Noah Silva,11,2.09,Art,noah.silva336@example.edu,20-09-2024,Dr. Reyes
+416,Tariq Nguyen,10,3.99,Chemistry,tariq.nguyen347@example.edu,15-12-2023,Dr. Whitman
+417,Omar Garcia,12,2.47,Biology,omar.garcia785@example.edu,07-11-2022,Dr. Whitman
+418,Emma Davis,11,3.26,History,emma.davis451@example.edu,05-06-2021,Dr. Whitman
+419,Lucas Garcia,10,3.03,Undeclared,lucas.garcia270@example.edu,12-05-2021,Dr. Kapoor
+420,Zara Patel,9,3.94,Undeclared,zara.patel66@example.edu,02-08-2023,Dr. Whitman
+421,Hana Blake,10,3.96,History,hana.blake872@example.edu,13-04-2021,Dr. Kapoor
+422,Grace Lee,11,3.26,Mathematics,grace.lee839@example.edu,03-10-2025,Dr. Whitman
+423,Ken Bianchi,12,3.76,Art,ken.bianchi633@example.edu,02-09-2024,Dr. Osei
+424,Noah Bianchi,11,3.61,Undeclared,noah.bianchi366@example.edu,10-09-2024,Dr. Falk
+425,Ravi Garcia,11,2.05,Chemistry,ravi.garcia840@example.edu,28-12-2024,Dr. Reyes
+426,Ethan Novak,9,2.13,Chemistry,ethan.novak961@example.edu,11-10-2022,Dr. Reyes
+427,Liam Kowalski,12,3.01,Chemistry,liam.kowalski890@example.edu,19-06-2021,Dr. Reyes
+428,Carlos Lin,10,3.2,Computer Science,carlos.lin679@example.edu,04-04-2024,Dr. Kapoor
+429,Sofia Osei,10,3.42,Computer Science,sofia.osei579@example.edu,18-06-2021,Dr. Falk
+430,Leila Silva,11,3.29,Chemistry,leila.silva233@example.edu,03-05-2022,Dr. Reyes
+431,Tariq Khan,11,2.14,History,tariq.khan642@example.edu,08-09-2023,Dr. Kapoor
+432,Ravi Dubois,12,2.05,Art,ravi.dubois933@example.edu,10-05-2022,Dr. Reyes
+433,Tariq Garcia,11,2.78,Biology,tariq.garcia354@example.edu,18-06-2025,Dr. Falk
+434,Ivan Rivera,12,2.54,Biology,ivan.rivera435@example.edu,01-08-2021,Dr. Falk
+435,Alex Thompson,10,2.15,Biology,alex.thompson415@example.edu,03-09-2025,Dr. Falk
+436,Yuki Lee,10,3.58,Undeclared,yuki.lee858@example.edu,16-11-2023,Dr. Reyes
+437,Fatima Sato,9,3.41,Undeclared,fatima.sato837@example.edu,23-04-2025,Dr. Reyes
+438,Omar Lin,11,2.05,Computer Science,omar.lin606@example.edu,13-09-2022,Dr. Falk
+439,Wei Bianchi,10,3.94,Physics,wei.bianchi832@example.edu,28-07-2022,Dr. Falk
+440,Leila Khan,9,3.15,Mathematics,leila.khan725@example.edu,18-02-2022,Dr. Osei
+441,Ravi Rossi,12,2.92,Mathematics,ravi.rossi426@example.edu,03-07-2024,Dr. Whitman
+442,Morgan Davis,12,3.83,Undeclared,morgan.davis179@example.edu,26-03-2021,Dr. Osei
+443,Morgan Petrov,10,2.54,Physics,morgan.petrov75@example.edu,15-12-2022,Dr. Reyes
+444,Zara Kim,12,2.98,Physics,zara.kim97@example.edu,20-08-2024,Dr. Whitman
+445,Emma Blake,11,2.55,Mathematics,emma.blake124@example.edu,01-05-2023,Dr. Kapoor
+446,Ava Patel,10,3.55,History,ava.patel65@example.edu,28-05-2024,Dr. Reyes
+447,Leila Mendes,12,3.76,Computer Science,leila.mendes890@example.edu,04-01-2024,Dr. Kapoor
+448,Sofia Kim,12,3.5,Mathematics,sofia.kim224@example.edu,19-10-2021,Dr. Falk
+449,Diego Sato,12,3.79,History,diego.sato365@example.edu,21-03-2025,Dr. Osei
+450,Olivia Petrov,12,2.75,Undeclared,olivia.petrov832@example.edu,20-05-2021,Dr. Whitman
+451,Alex Patel,11,2,Computer Science,alex.patel761@example.edu,03-06-2023,Dr. Osei
+452,Elena Cohen,11,3.56,Undeclared,elena.cohen897@example.edu,16-07-2025,Dr. Osei
+453,Ava Osei,10,3.15,Undeclared,ava.osei481@example.edu,03-04-2022,Dr. Falk
+454,Leila Mendes,11,2.76,Biology,leila.mendes383@example.edu,19-05-2024,Dr. Osei
+455,Morgan Mendes,9,2.23,Art,morgan.mendes539@example.edu,19-08-2025,Dr. Falk
+456,Liam Rivera,10,3.75,Physics,liam.rivera297@example.edu,11-10-2021,Dr. Falk
+457,Noah Lin,12,3.3,Mathematics,noah.lin98@example.edu,02-04-2025,Dr. Kapoor
+458,Omar Mendes,9,2.12,Art,omar.mendes989@example.edu,10-02-2022,Dr. Osei
+459,Ken Rivera,11,2.18,Biology,ken.rivera257@example.edu,16-07-2022,Dr. Kapoor
+460,Ravi Thompson,9,3.89,Physics,ravi.thompson498@example.edu,18-02-2025,Dr. Reyes
+461,Jordan Kumar,12,3.26,History,jordan.kumar434@example.edu,11-03-2023,Dr. Reyes
+462,Elena Kumar,12,3.28,Physics,elena.kumar147@example.edu,22-10-2024,Dr. Osei
+463,Noah Cohen,9,2.74,Undeclared,noah.cohen184@example.edu,13-01-2022,Dr. Whitman
+464,Priya Thompson,10,2.11,Mathematics,priya.thompson896@example.edu,23-11-2023,Dr. Falk
+465,Leila Silva,9,3.35,Computer Science,leila.silva173@example.edu,04-12-2023,Dr. Whitman
+466,Ethan Dubois,10,2.05,Mathematics,ethan.dubois492@example.edu,11-02-2021,Dr. Whitman
+467,Mia Davis,10,2.04,Mathematics,mia.davis435@example.edu,28-04-2022,Dr. Kapoor
+468,Morgan Blake,10,3.71,Undeclared,morgan.blake39@example.edu,08-06-2021,Dr. Kapoor
+469,Morgan Thompson,10,2.09,Mathematics,morgan.thompson144@example.edu,22-02-2021,Dr. Kapoor
+470,Hana Kumar,9,2.23,Chemistry,hana.kumar263@example.edu,07-05-2025,Dr. Osei
+471,Ken Lee,10,2.46,Computer Science,ken.lee373@example.edu,13-09-2022,Dr. Whitman
+472,Omar Patel,10,2.49,Undeclared,omar.patel344@example.edu,10-11-2024,Dr. Falk
+473,Morgan Patel,11,2.37,Mathematics,morgan.patel306@example.edu,15-10-2023,Dr. Reyes
+474,Omar Chen,10,2.53,Mathematics,omar.chen440@example.edu,06-05-2022,Dr. Whitman
+475,Diego Dubois,11,2.5,Art,diego.dubois652@example.edu,28-11-2024,Dr. Osei
+476,Mia Petrov,11,2.35,Art,mia.petrov851@example.edu,13-06-2022,Dr. Whitman
+477,Emma Silva,10,3.99,Mathematics,emma.silva380@example.edu,28-10-2023,Dr. Whitman
+478,Mia Garcia,12,3.92,History,mia.garcia807@example.edu,17-11-2022,Dr. Whitman
+479,Nadia Cohen,12,2.83,Biology,nadia.cohen273@example.edu,08-06-2024,Dr. Osei
+480,Sofia Haas,11,2.32,Art,sofia.haas797@example.edu,14-07-2023,Dr. Falk
+481,Wei Kim,11,2.42,Mathematics,wei.kim131@example.edu,11-09-2025,Dr. Osei
+482,Morgan Wright,10,3.75,Mathematics,morgan.wright506@example.edu,10-03-2025,Dr. Whitman
+483,Emma Garcia,9,2.31,Art,emma.garcia885@example.edu,24-04-2024,Dr. Kapoor
+484,Leila Kim,11,2.54,Undeclared,leila.kim421@example.edu,17-06-2025,Dr. Reyes
+485,Noah Petrov,9,2.83,Biology,noah.petrov403@example.edu,10-03-2025,Dr. Kapoor
+486,Olivia Falk,10,3.23,Biology,olivia.falk426@example.edu,28-06-2021,Dr. Osei
+487,Wei Nguyen,9,2.2,Chemistry,wei.nguyen712@example.edu,01-02-2024,Dr. Osei
+488,Alex Garcia,10,2.95,Mathematics,alex.garcia61@example.edu,06-12-2024,Dr. Whitman
+489,Jordan Torres,12,3.63,Physics,jordan.torres570@example.edu,24-07-2022,Dr. Falk
+490,Ken Patel,9,2.26,Biology,ken.patel293@example.edu,19-04-2024,Dr. Falk
+491,Omar Kowalski,12,2.79,History,omar.kowalski658@example.edu,24-03-2023,Dr. Kapoor
+492,Elena Bianchi,10,2.78,Undeclared,elena.bianchi353@example.edu,27-04-2024,Dr. Osei
+493,Nadia Lee,12,2.28,Undeclared,nadia.lee12@example.edu,27-07-2022,Dr. Kapoor
+494,Mia Nguyen,9,3.99,Biology,mia.nguyen186@example.edu,13-12-2024,Dr. Falk
+495,Ken Lin,9,3.24,Art,ken.lin689@example.edu,22-07-2021,Dr. Kapoor
+496,Noah Patel,11,2.44,Biology,noah.patel34@example.edu,04-07-2021,Dr. Osei
+497,Carlos Dubois,9,2.23,Chemistry,carlos.dubois582@example.edu,24-05-2025,Dr. Kapoor
+498,Priya Kowalski,9,2.39,Chemistry,priya.kowalski279@example.edu,16-04-2023,Dr. Reyes
+499,Elena Garcia,10,3.91,Undeclared,elena.garcia547@example.edu,02-05-2021,Dr. Kapoor
+500,Zara Dubois,11,2.18,Physics,zara.dubois978@example.edu,16-07-2021,Dr. Kapoor
+501,Liam Kumar,9,3.99,Biology,liam.kumar107@example.edu,10-01-2024,Dr. Kapoor
+502,Ivan Silva,9,3.54,Physics,ivan.silva869@example.edu,06-11-2023,Dr. Whitman
+503,Morgan Nguyen,12,3.71,Biology,morgan.nguyen414@example.edu,24-01-2025,Dr. Whitman
+504,Yuki Alvarez,9,2.49,Computer Science,yuki.alvarez125@example.edu,17-05-2022,Dr. Falk
+505,Ethan Osei,11,3.78,Physics,ethan.osei215@example.edu,03-04-2023,Dr. Reyes
+506,Priya Silva,12,3.13,Biology,priya.silva498@example.edu,07-02-2025,Dr. Kapoor
+507,Sofia Kumar,9,2.65,Art,sofia.kumar102@example.edu,04-08-2021,Dr. Osei
+508,Yuki Blake,9,3.17,Undeclared,yuki.blake949@example.edu,10-03-2021,Dr. Reyes
+509,Wei Haas,9,2.32,Biology,wei.haas297@example.edu,05-02-2021,Dr. Kapoor
+510,Grace Haas,11,2.63,Art,grace.haas957@example.edu,07-10-2021,Dr. Reyes
+511,Olivia Haas,11,2.98,Undeclared,olivia.haas881@example.edu,20-04-2024,Dr. Whitman
+512,Noah Osei,9,2.08,Art,noah.osei309@example.edu,22-02-2025,Dr. Reyes
+513,Jordan Dubois,11,2.34,Computer Science,jordan.dubois122@example.edu,02-05-2023,Dr. Whitman
+514,Fatima Kim,9,3.84,Chemistry,fatima.kim340@example.edu,20-07-2021,Dr. Reyes
+515,Wei Thompson,12,2.13,Undeclared,wei.thompson834@example.edu,06-06-2023,Dr. Falk
+516,Ava Kowalski,12,3.48,Biology,ava.kowalski3@example.edu,12-11-2022,Dr. Falk
+517,Olivia Khan,9,3.87,Art,olivia.khan598@example.edu,23-10-2025,Dr. Kapoor
+518,Mia Nguyen,11,2.85,Undeclared,mia.nguyen519@example.edu,08-10-2025,Dr. Whitman
+519,Alex Mendes,9,3.18,History,alex.mendes444@example.edu,22-06-2024,Dr. Reyes
+520,Liam Mendes,11,3.56,Undeclared,liam.mendes908@example.edu,15-03-2022,Dr. Whitman
+521,Grace Blake,12,2.81,History,grace.blake415@example.edu,09-01-2023,Dr. Reyes
+522,Tariq Chen,12,2.05,Physics,tariq.chen85@example.edu,09-11-2023,Dr. Whitman
+523,Elena Kim,9,3.97,Mathematics,elena.kim522@example.edu,09-03-2024,Dr. Whitman
+524,Omar Silva,12,3.56,Biology,omar.silva898@example.edu,21-01-2021,Dr. Reyes
+525,Ravi Osei,9,3.34,Biology,ravi.osei498@example.edu,05-09-2022,Dr. Whitman
+526,Olivia Shah,10,2.38,Biology,olivia.shah125@example.edu,06-11-2023,Dr. Osei
+527,Noah Blake,10,2.36,Computer Science,noah.blake291@example.edu,09-09-2021,Dr. Reyes
+528,Emma Haas,10,3.05,History,emma.haas621@example.edu,10-10-2025,Dr. Whitman
+529,Alex Torres,9,2.08,Undeclared,alex.torres464@example.edu,08-02-2025,Dr. Falk
+530,Yuki Dubois,9,3.41,Chemistry,yuki.dubois356@example.edu,07-06-2021,Dr. Falk
+531,Hana Lin,10,2.33,Computer Science,hana.lin946@example.edu,10-07-2021,Dr. Whitman
+532,Ivan Silva,11,3.91,Physics,ivan.silva614@example.edu,08-09-2024,Dr. Whitman
+533,Morgan Cohen,9,3.7,Physics,morgan.cohen917@example.edu,20-02-2023,Dr. Falk
+534,Leila Haas,11,2.49,Biology,leila.haas628@example.edu,26-03-2023,Dr. Kapoor
+535,Hana Cohen,9,3.86,Undeclared,hana.cohen295@example.edu,14-09-2024,Dr. Reyes
+536,Ethan Khan,10,3.1,Computer Science,ethan.khan88@example.edu,18-11-2025,Dr. Kapoor
+537,Noah Chen,12,2.44,History,noah.chen510@example.edu,23-11-2025,Dr. Whitman
+538,Wei Kim,12,3.12,Biology,wei.kim684@example.edu,08-02-2022,Dr. Kapoor
+539,Diego Sato,12,2.5,Chemistry,diego.sato842@example.edu,19-10-2024,Dr. Whitman
+540,Emma Novak,11,3.11,History,emma.novak937@example.edu,19-06-2024,Dr. Kapoor
+541,Ethan Silva,9,3.09,Undeclared,ethan.silva192@example.edu,01-12-2025,Dr. Reyes
+542,Nadia Shah,9,3.38,History,nadia.shah916@example.edu,20-09-2022,Dr. Kapoor
+543,Ravi Chen,12,2.13,Physics,ravi.chen398@example.edu,15-07-2023,Dr. Osei
+544,Noah Lin,11,2.74,Physics,noah.lin85@example.edu,05-06-2024,Dr. Reyes
+545,Ravi Rivera,10,2.84,Biology,ravi.rivera307@example.edu,02-09-2025,Dr. Osei
+546,Carlos Kim,9,3.02,Chemistry,carlos.kim491@example.edu,20-10-2024,Dr. Osei
+547,Ivan Alvarez,12,2.59,Undeclared,ivan.alvarez471@example.edu,11-03-2024,Dr. Whitman
+548,Zara Wright,10,2.48,Computer Science,zara.wright923@example.edu,07-03-2023,Dr. Falk
+549,Lucas Chen,9,2.55,Art,lucas.chen727@example.edu,04-05-2022,Dr. Falk
+550,Emma Kim,12,3.2,History,emma.kim548@example.edu,15-06-2023,Dr. Falk
+551,Tariq Falk,9,2.77,Art,tariq.falk577@example.edu,06-01-2024,Dr. Falk
+552,Ava Mendes,12,2.12,Chemistry,ava.mendes227@example.edu,26-10-2022,Dr. Falk
+553,Wei Alvarez,11,2.72,Chemistry,wei.alvarez869@example.edu,21-06-2021,Dr. Kapoor
+554,Leila Dubois,10,3.05,Chemistry,leila.dubois48@example.edu,27-01-2023,Dr. Osei
+555,Nadia Shah,12,2.37,Biology,nadia.shah454@example.edu,16-02-2022,Dr. Falk
+556,Ava Alvarez,10,3.66,Physics,ava.alvarez310@example.edu,15-07-2021,Dr. Kapoor
+557,Leila Kowalski,10,3.81,History,leila.kowalski701@example.edu,06-10-2022,Dr. Reyes
+558,Sofia Alvarez,10,2.95,Physics,sofia.alvarez406@example.edu,27-03-2022,Dr. Falk
+559,Hana Kumar,10,2.24,Chemistry,hana.kumar601@example.edu,02-09-2022,Dr. Falk
+560,Zara Kowalski,11,2.02,Computer Science,zara.kowalski47@example.edu,22-02-2024,Dr. Kapoor
+561,Priya Lee,10,3.29,Chemistry,priya.lee383@example.edu,16-04-2025,Dr. Kapoor
+562,Olivia Rivera,9,2,Physics,olivia.rivera189@example.edu,11-11-2025,Dr. Reyes
+563,Jordan Rossi,10,2.37,History,jordan.rossi386@example.edu,16-12-2023,Dr. Whitman
+564,Lucas Khan,11,2.71,Undeclared,lucas.khan3@example.edu,20-10-2024,Dr. Osei
+565,Noah Chen,11,3.59,History,noah.chen745@example.edu,24-03-2022,Dr. Osei
+566,Sam Rossi,12,2.93,Biology,sam.rossi292@example.edu,10-07-2023,Dr. Reyes
+567,Diego Wright,10,2.89,Biology,diego.wright630@example.edu,07-06-2023,Dr. Kapoor
+568,Fatima Cohen,9,3.84,Art,fatima.cohen998@example.edu,14-07-2024,Dr. Reyes
+569,Emma Kumar,11,2.35,Art,emma.kumar664@example.edu,05-02-2024,Dr. Whitman
+570,Omar Falk,10,3.11,History,omar.falk489@example.edu,14-01-2025,Dr. Whitman
+571,Omar Khan,9,2.31,Chemistry,omar.khan71@example.edu,16-07-2021,Dr. Kapoor
+572,Wei Cohen,12,2.05,Art,wei.cohen648@example.edu,11-04-2024,Dr. Osei
+573,Morgan Blake,10,3.37,Biology,morgan.blake553@example.edu,05-10-2023,Dr. Whitman
+574,Tariq Blake,12,3.64,Undeclared,tariq.blake663@example.edu,14-06-2025,Dr. Osei
+575,Leila Garcia,9,2.17,Computer Science,leila.garcia621@example.edu,01-04-2023,Dr. Whitman
+576,Alex Khan,10,2.91,History,alex.khan792@example.edu,25-10-2022,Dr. Kapoor
+577,Ken Cohen,10,3.75,Biology,ken.cohen213@example.edu,14-05-2022,Dr. Falk
+578,Nadia Petrov,12,2.76,Chemistry,nadia.petrov130@example.edu,23-09-2024,Dr. Falk
+579,Jordan Garcia,10,3.6,Art,jordan.garcia423@example.edu,03-10-2023,Dr. Falk
+580,Yuki Patel,10,2.08,Biology,yuki.patel798@example.edu,28-11-2023,Dr. Whitman
+581,Elena Rossi,11,2.33,Mathematics,elena.rossi403@example.edu,14-03-2023,Dr. Reyes
+582,Tariq Dubois,10,3.74,History,tariq.dubois66@example.edu,06-08-2022,Dr. Falk
+583,Emma Mendes,10,3.92,Chemistry,emma.mendes501@example.edu,13-11-2023,Dr. Falk
+584,Leila Kowalski,12,3.23,Mathematics,leila.kowalski267@example.edu,17-08-2025,Dr. Falk
+585,Ken Shah,10,2.33,Undeclared,ken.shah726@example.edu,01-02-2023,Dr. Falk
+586,Ravi Bianchi,10,2.63,Mathematics,ravi.bianchi593@example.edu,14-10-2022,Dr. Falk
+587,Sofia Osei,11,3.72,Computer Science,sofia.osei839@example.edu,25-07-2021,Dr. Osei
+588,Hana Lin,12,3.42,Computer Science,hana.lin612@example.edu,11-12-2022,Dr. Whitman
+589,Nadia Lin,10,2.51,Undeclared,nadia.lin888@example.edu,05-02-2022,Dr. Kapoor
+590,Jordan Wright,12,3.74,History,jordan.wright923@example.edu,05-03-2021,Dr. Osei
+591,Ethan Sato,12,2.92,Physics,ethan.sato294@example.edu,24-08-2023,Dr. Kapoor
+592,Grace Haas,10,2.75,Undeclared,grace.haas715@example.edu,01-08-2021,Dr. Osei
+593,Noah Bianchi,10,2.19,Art,noah.bianchi569@example.edu,07-04-2022,Dr. Reyes
+594,Ivan Khan,10,3.39,Undeclared,ivan.khan325@example.edu,13-12-2021,Dr. Reyes
+595,Sofia Kowalski,12,2.02,Chemistry,sofia.kowalski417@example.edu,05-11-2022,Dr. Kapoor
+596,Ravi Patel,9,2.23,Computer Science,ravi.patel905@example.edu,27-01-2022,Dr. Whitman
+597,Yuki Sato,11,3.01,Undeclared,yuki.sato130@example.edu,25-05-2024,Dr. Kapoor
+598,Liam Patel,10,2.85,Art,liam.patel692@example.edu,01-07-2025,Dr. Kapoor
+599,Ava Silva,12,3,Biology,ava.silva715@example.edu,01-07-2022,Dr. Falk
+600,Ivan Petrov,11,3.21,Undeclared,ivan.petrov913@example.edu,05-10-2024,Dr. Whitman
+601,Zara Mendes,12,2.56,Physics,zara.mendes117@example.edu,09-03-2022,Dr. Kapoor
+602,Carlos Kowalski,9,3.82,Chemistry,carlos.kowalski384@example.edu,28-11-2021,Dr. Whitman
+603,Sam Lee,11,2.58,Biology,sam.lee487@example.edu,23-09-2023,Dr. Whitman
+604,Zara Sato,9,2.43,Physics,zara.sato293@example.edu,03-11-2023,Dr. Whitman
+605,Ethan Kumar,11,2.48,History,ethan.kumar416@example.edu,11-09-2024,Dr. Whitman
+606,Wei Patel,11,2.38,Biology,wei.patel282@example.edu,07-11-2025,Dr. Reyes
+607,Ethan Lin,11,2.7,Physics,ethan.lin202@example.edu,21-10-2021,Dr. Whitman
+608,Jordan Cohen,12,3.03,History,jordan.cohen391@example.edu,04-08-2023,Dr. Reyes
+609,Elena Novak,12,3.1,Physics,elena.novak94@example.edu,05-01-2025,Dr. Reyes
+610,Omar Cohen,9,2.81,Chemistry,omar.cohen496@example.edu,03-07-2021,Dr. Whitman
+611,Carlos Nguyen,12,2.85,Mathematics,carlos.nguyen116@example.edu,19-10-2021,Dr. Reyes
+612,Elena Novak,12,2.88,Chemistry,elena.novak680@example.edu,14-03-2022,Dr. Whitman
+613,Olivia Haas,9,3.44,Physics,olivia.haas341@example.edu,12-04-2025,Dr. Osei
+614,Mia Mendes,9,3.18,Mathematics,mia.mendes336@example.edu,05-12-2024,Dr. Kapoor
+615,Carlos Kim,11,3.9,Chemistry,carlos.kim593@example.edu,06-09-2025,Dr. Falk
+616,Ava Rossi,12,3.32,Biology,ava.rossi480@example.edu,18-06-2024,Dr. Whitman
+617,Sam Petrov,11,3.08,Undeclared,sam.petrov952@example.edu,18-07-2024,Dr. Reyes
+618,Nadia Haas,10,2.01,Chemistry,nadia.haas7@example.edu,11-09-2022,Dr. Osei
+619,Ava Sato,12,2.36,Mathematics,ava.sato441@example.edu,26-09-2025,Dr. Osei
+620,Mia Davis,9,3.28,Physics,mia.davis169@example.edu,28-03-2023,Dr. Kapoor
+621,Carlos Wright,12,2.21,Chemistry,carlos.wright5@example.edu,27-08-2025,Dr. Osei
+622,Leila Chen,12,2.25,Physics,leila.chen655@example.edu,18-04-2024,Dr. Osei
+623,Olivia Dubois,12,2.94,Biology,olivia.dubois124@example.edu,05-05-2025,Dr. Falk
+624,Morgan Silva,12,3.3,Mathematics,morgan.silva204@example.edu,02-10-2021,Dr. Whitman
+625,Grace Cohen,9,2.29,Physics,grace.cohen848@example.edu,28-12-2022,Dr. Falk
+626,Morgan Patel,11,3.35,Art,morgan.patel222@example.edu,24-06-2021,Dr. Reyes
+627,Tariq Novak,12,3.97,Biology,tariq.novak776@example.edu,14-12-2025,Dr. Whitman
+628,Wei Falk,12,2.22,History,wei.falk727@example.edu,12-07-2025,Dr. Reyes
+629,Sofia Kowalski,12,2.81,Physics,sofia.kowalski622@example.edu,22-12-2025,Dr. Reyes
+630,Lucas Haas,10,2.39,Undeclared,lucas.haas17@example.edu,23-10-2021,Dr. Falk
+631,Morgan Thompson,11,3.89,Mathematics,morgan.thompson699@example.edu,25-04-2023,Dr. Reyes
+632,Nadia Patel,10,2.25,Biology,nadia.patel594@example.edu,08-05-2021,Dr. Kapoor
+633,Fatima Chen,12,2.04,Undeclared,fatima.chen490@example.edu,02-07-2022,Dr. Whitman
+634,Emma Garcia,9,2.17,History,emma.garcia39@example.edu,03-01-2021,Dr. Reyes
+635,Fatima Novak,10,2.84,Physics,fatima.novak517@example.edu,13-03-2021,Dr. Falk
+636,Zara Falk,10,3.34,Art,zara.falk932@example.edu,15-10-2023,Dr. Kapoor
+637,Leila Haas,10,2.44,Undeclared,leila.haas520@example.edu,07-12-2025,Dr. Falk
+638,Olivia Sato,9,3.2,Biology,olivia.sato291@example.edu,16-07-2025,Dr. Kapoor
+639,Sam Novak,11,2.77,Mathematics,sam.novak649@example.edu,22-05-2024,Dr. Osei
+640,Omar Blake,9,3.75,Biology,omar.blake966@example.edu,05-12-2024,Dr. Reyes
+641,Ravi Mendes,10,3.56,Computer Science,ravi.mendes318@example.edu,11-09-2024,Dr. Falk
+642,Tariq Sato,10,3.98,Art,tariq.sato686@example.edu,01-05-2022,Dr. Whitman
+643,Omar Kumar,10,2.04,Mathematics,omar.kumar681@example.edu,10-02-2021,Dr. Reyes
+644,Omar Chen,11,2.17,Physics,omar.chen573@example.edu,07-05-2023,Dr. Osei
+645,Olivia Sato,9,2.8,Chemistry,olivia.sato748@example.edu,23-11-2021,Dr. Osei
+646,Noah Davis,12,3.69,Chemistry,noah.davis391@example.edu,25-12-2025,Dr. Osei
+647,Omar Chen,9,3.81,Physics,omar.chen740@example.edu,02-10-2021,Dr. Kapoor
+648,Elena Alvarez,10,2.13,Art,elena.alvarez534@example.edu,01-12-2021,Dr. Falk
+649,Tariq Novak,9,2.35,Chemistry,tariq.novak344@example.edu,11-02-2023,Dr. Kapoor
+650,Yuki Alvarez,10,3.25,Physics,yuki.alvarez637@example.edu,09-01-2022,Dr. Osei
+651,Ivan Lin,12,2.85,Chemistry,ivan.lin789@example.edu,06-07-2024,Dr. Kapoor
+652,Leila Bianchi,9,3.02,Biology,leila.bianchi144@example.edu,21-11-2022,Dr. Reyes
+653,Lucas Rivera,11,3.71,Undeclared,lucas.rivera799@example.edu,09-12-2024,Dr. Reyes
+654,Tariq Chen,11,3.82,Chemistry,tariq.chen76@example.edu,12-01-2021,Dr. Kapoor
+655,Liam Petrov,10,2.02,Mathematics,liam.petrov510@example.edu,15-10-2022,Dr. Kapoor
+656,Lucas Wright,10,2.19,Biology,lucas.wright765@example.edu,22-03-2023,Dr. Reyes
+657,Nadia Kim,12,4,History,nadia.kim664@example.edu,04-12-2021,Dr. Reyes
+658,Omar Garcia,12,2.96,Biology,omar.garcia522@example.edu,13-08-2024,Dr. Osei
+659,Wei Nguyen,10,2.82,Chemistry,wei.nguyen443@example.edu,22-09-2025,Dr. Falk
+660,Alex Rivera,12,3.76,Computer Science,alex.rivera471@example.edu,19-03-2024,Dr. Osei
+661,Ava Shah,12,2.87,Physics,ava.shah584@example.edu,21-08-2022,Dr. Reyes
+662,Sam Rossi,11,2.34,Physics,sam.rossi475@example.edu,19-10-2023,Dr. Osei
+663,Omar Davis,9,2.27,History,omar.davis638@example.edu,15-08-2024,Dr. Osei
+664,Ravi Davis,12,2.76,Physics,ravi.davis563@example.edu,12-09-2022,Dr. Kapoor
+665,Alex Davis,9,3.85,Undeclared,alex.davis128@example.edu,25-02-2024,Dr. Reyes
+666,Emma Garcia,10,3.14,Computer Science,emma.garcia605@example.edu,12-07-2023,Dr. Whitman
+667,Zara Osei,12,2.16,Biology,zara.osei862@example.edu,14-09-2023,Dr. Whitman
+668,Priya Haas,11,3.55,Physics,priya.haas736@example.edu,09-03-2025,Dr. Falk
+669,Nadia Silva,10,3.05,Art,nadia.silva575@example.edu,21-06-2024,Dr. Reyes
+670,Priya Bianchi,10,3.29,Computer Science,priya.bianchi604@example.edu,04-01-2022,Dr. Whitman
+671,Diego Sato,10,2.68,Physics,diego.sato66@example.edu,27-07-2025,Dr. Whitman
+672,Olivia Torres,10,3.14,Physics,olivia.torres412@example.edu,05-06-2025,Dr. Osei
+673,Ava Kim,10,2.82,Chemistry,ava.kim841@example.edu,18-11-2021,Dr. Whitman
+674,Sofia Thompson,9,2.03,Art,sofia.thompson655@example.edu,05-01-2022,Dr. Falk
+675,Omar Thompson,12,3.3,Mathematics,omar.thompson143@example.edu,26-12-2023,Dr. Kapoor
+676,Grace Mendes,10,2.94,Undeclared,grace.mendes26@example.edu,26-08-2023,Dr. Whitman
+677,Omar Bianchi,11,2.61,History,omar.bianchi923@example.edu,25-11-2024,Dr. Reyes
+678,Mia Kumar,12,3.09,Art,mia.kumar808@example.edu,21-06-2022,Dr. Falk
+679,Mia Mendes,10,2.51,Biology,mia.mendes288@example.edu,14-11-2024,Dr. Kapoor
+680,Zara Petrov,12,2.71,Chemistry,zara.petrov683@example.edu,07-09-2023,Dr. Falk
+681,Zara Khan,10,3.32,History,zara.khan671@example.edu,21-07-2025,Dr. Osei
+682,Tariq Shah,12,2.43,Mathematics,tariq.shah850@example.edu,11-09-2023,Dr. Osei
+683,Morgan Chen,12,2.95,Art,morgan.chen5@example.edu,10-10-2025,Dr. Osei
+684,Ava Kowalski,12,3.54,Chemistry,ava.kowalski673@example.edu,08-05-2023,Dr. Reyes
+685,Nadia Silva,11,3.73,Physics,nadia.silva365@example.edu,26-12-2021,Dr. Falk
+686,Emma Dubois,9,2.72,Physics,emma.dubois611@example.edu,09-09-2022,Dr. Reyes
+687,Grace Thompson,9,2.1,Chemistry,grace.thompson288@example.edu,25-10-2022,Dr. Osei
+688,Ken Kumar,12,2.89,Art,ken.kumar929@example.edu,11-10-2022,Dr. Falk
+689,Ivan Dubois,11,3.33,Physics,ivan.dubois248@example.edu,03-01-2025,Dr. Reyes
+690,Morgan Davis,11,2.22,Physics,morgan.davis693@example.edu,23-12-2022,Dr. Whitman
+691,Ethan Davis,9,3.32,Biology,ethan.davis320@example.edu,08-06-2022,Dr. Whitman
+692,Morgan Cohen,12,3.19,Chemistry,morgan.cohen845@example.edu,20-08-2022,Dr. Falk
+693,Liam Rivera,9,2.22,Chemistry,liam.rivera673@example.edu,01-10-2023,Dr. Falk
+694,Tariq Thompson,12,2.72,Art,tariq.thompson837@example.edu,18-03-2023,Dr. Reyes
+695,Elena Petrov,12,3.81,History,elena.petrov114@example.edu,12-09-2021,Dr. Reyes
+696,Noah Nguyen,10,3.11,History,noah.nguyen357@example.edu,03-06-2023,Dr. Falk
+697,Ivan Kowalski,12,3.95,Biology,ivan.kowalski599@example.edu,04-06-2022,Dr. Whitman
+698,Olivia Petrov,11,2.69,History,olivia.petrov321@example.edu,15-12-2022,Dr. Whitman
+699,Leila Kowalski,12,2.27,Computer Science,leila.kowalski557@example.edu,15-07-2021,Dr. Osei
+700,Noah Lin,11,2.77,Computer Science,noah.lin867@example.edu,11-11-2021,Dr. Reyes
+701,Carlos Shah,10,3.52,Undeclared,carlos.shah905@example.edu,25-03-2021,Dr. Reyes
+702,Alex Nguyen,11,3.05,Art,alex.nguyen402@example.edu,19-01-2022,Dr. Kapoor
+703,Leila Kumar,12,3.14,Biology,leila.kumar618@example.edu,01-04-2024,Dr. Osei
+704,Leila Alvarez,11,3.9,Mathematics,leila.alvarez763@example.edu,10-01-2024,Dr. Falk
+705,Priya Silva,11,3.44,Computer Science,priya.silva940@example.edu,23-11-2022,Dr. Reyes
+706,Grace Kim,9,3.9,Chemistry,grace.kim288@example.edu,18-09-2022,Dr. Kapoor
+707,Priya Wright,11,3.7,Biology,priya.wright674@example.edu,05-11-2023,Dr. Whitman
+708,Morgan Mendes,10,2.8,History,morgan.mendes48@example.edu,06-09-2022,Dr. Osei
+709,Jordan Kim,11,2.27,History,jordan.kim786@example.edu,13-08-2023,Dr. Reyes
+710,Ava Alvarez,9,2.22,History,ava.alvarez300@example.edu,24-01-2025,Dr. Falk
