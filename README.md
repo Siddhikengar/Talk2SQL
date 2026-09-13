@@ -51,7 +51,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/talk2sql.git
+git clone https://github.com/Siddhikengar/talk2sql.git
 cd talk2sql
 pip install -r requirements.txt
 ```
